@@ -1,0 +1,11 @@
+- .next /
+- nodemodules /
+- src/
+- | - assets /
+- | - components /
+- | - pages /
+- | - | - _app.js
+- .env.local
+- db.js
+- package.json
+- package-lock.json

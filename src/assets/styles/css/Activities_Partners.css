@@ -1,0 +1,427 @@
+#Activities, #partners {
+  margin-top: 30px;
+  height: 700px;
+  width: 96.5%;
+  text-align: center;
+}
+#Activities a, #Activities button, #partners a, #partners button {
+  cursor: pointer;
+}
+#Activities a:hover, #Activities button:hover, #partners a:hover, #partners button:hover {
+  color: #000;
+}
+#Activities section a, #partners section a {
+  color: rgb(85, 82, 82);
+  text-decoration: underline;
+  font-style: italic;
+}
+#Activities section nav, #partners section nav {
+  text-align: center;
+  width: 100%;
+  height: 40px;
+}
+#Activities section nav article, #Activities section nav aside, #partners section nav article, #partners section nav aside {
+  height: 100%;
+  text-align: center;
+}
+#Activities section nav article, #partners section nav article {
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+#Activities section nav article label, #Activities section nav article input, #Activities section nav article button, #partners section nav article label, #partners section nav article input, #partners section nav article button {
+  margin: 5px;
+}
+#Activities section nav aside, #partners section nav aside {
+  float: right;
+  width: 50%;
+  text-align: right;
+  align-items: right;
+}
+#Activities section nav aside button, #partners section nav aside button {
+  background-color: #36043A;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 12px;
+  text-align: center;
+  height: 100%;
+  margin-right: 0%;
+}
+#Activities section nav aside button i, #partners section nav aside button i {
+  margin-right: 5px;
+}
+#Activities section section, #partners section section {
+  margin: 15px 0;
+  width: 100%;
+  background-color: white;
+}
+#Activities section section hr, #partners section section hr {
+  height: 2px;
+  width: 100%;
+}
+#Activities section section article button, #Activities section section aside button, #partners section section article button, #partners section section aside button {
+  font-size: 15px;
+  background-color: rgba(0, 0, 255, 0);
+  border: none;
+  margin: 15px;
+}
+#Activities section section article button i, #Activities section section aside button i, #partners section section article button i, #partners section section aside button i {
+  margin-left: 5px;
+}
+#Activities section section article, #partners section section article {
+  width: 35%;
+  float: left;
+  text-align: left;
+  align-items: left;
+  padding-left: 20px;
+}
+#Activities section section aside, #partners section section aside {
+  width: 55%;
+  float: right;
+  text-align: right;
+  align-items: right;
+  padding-right: 20px;
+}
+#Activities section section aside button, #partners section section aside button {
+  text-decoration: underline;
+}
+
+#Activities section section article, #Activities section section aside, #partners section section article, #partners section section aside {
+  height: 50px;
+}
+
+#Activities section section .activities_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#Activities section section .activities_container .activities_grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 90%;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+}
+#Activities section section .activities_container .activities_grid .activity_card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  transition: all 0.5s ease;
+  background-color: #EAEAEA;
+  width: 350px;
+  height: 260px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside, #Activities section section .activities_container .activities_grid .activity_card article {
+  height: 94%;
+  margin-top: 10px;
+}
+#Activities section section .activities_container .activities_grid .activity_card article {
+  width: 47%;
+  float: left;
+}
+#Activities section section .activities_container .activities_grid .activity_card article img {
+  width: 96%;
+  height: auto;
+}
+#Activities section section .activities_container .activities_grid .activity_card article h3 {
+  font-size: 18px;
+  height: 6%;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside {
+  width: 40%;
+  float: right;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside nav, #Activities section section .activities_container .activities_grid .activity_card aside section {
+  width: 100%;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside nav {
+  height: 20px;
+  padding: 0;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside nav .activity_card_menu {
+  display: flex;
+  gap: 10px;
+  float: right;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside nav .activity_card_menu button {
+  padding: 0;
+  margin: 0;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside section {
+  padding-left: 10px;
+  text-align: left;
+  background-color: rgba(204, 204, 204, 0);
+}
+#Activities section section .activities_container .activities_grid .activity_card aside section div {
+  margin-top: 5px;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside section div p:first-child {
+  color: black;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside section div p:last-child {
+  color: grey;
+  font-style: italic;
+}
+#Activities section section .activities_container .activities_grid .activity_card aside .activity_card_buttons button {
+  background-color: rgba(0, 0, 255, 0);
+  color: #36043A;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view {
+  grid-column: 1/span 2;
+  height: 450px;
+  width: 700px;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view article {
+  width: 40%;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view aside {
+  width: 54%;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view aside table {
+  font-size: 14px;
+  margin-top: 5px;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view aside table img {
+  width: 60px;
+  height: 40px;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view aside table td {
+  margin-left: 5px;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view aside table td p:first-child {
+  margin-top: 0;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view aside table td.organised p:not(:first-child) {
+  color: rgba(0, 0, 255, 0);
+}
+#Activities section section .activities_container .activities_grid .activity_card.view .activity_card_buttons {
+  margin-top: 20px;
+}
+#Activities section section .activities_container .activities_grid .activity_card.view .activity_card_buttons button {
+  margin-top: -15px;
+  font-size: 18px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+#Activities section section .activities_container .activities_grid .activity_card.active nav .activity_card_buttons button {
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+#Activities section section .activities_container .activities_grid .activity_card p {
+  margin: 0;
+}
+#Activities section section .activities_container .activities_grid .activity_card .activity_card_buttons button {
+  background-color: #ccc;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+#Activities section section .activities_container .activities_grid .activity_card .activity_card_buttons button:hover {
+  background-color: rgba(0, 0, 0, 0.2470588235);
+}
+#Activities section section .activities_container .activities_grid .activity_card .view {
+  float: right;
+}
+
+#partners section section .partners_container {
+  padding: 10px 30px;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+#partners section section .partners_container .partner_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  background-color: #f4f4f4;
+}
+#partners section section .partners_container .partner_item img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+#partners section section .partners_container .partner_item p {
+  font-weight: bold;
+  text-align: center;
+}
+
+@media screen and (max-width: 1200px) {
+  #Activities section section .activities_container .activities_grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  #Activities section section .activities_container .activities_grid .activity_card {
+    width: 295px;
+    height: 260px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card aside, #Activities section section .activities_container .activities_grid .activity_card article {
+    height: 94%;
+    margin-top: 10px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card article {
+    width: 40%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card article img {
+    width: 100%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card aside {
+    width: 45%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view {
+    padding: 5px;
+    grid-column: 1/span 2;
+    height: 480px;
+    width: 400px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view article {
+    width: 37%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside {
+    width: 55%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table img {
+    width: 52px;
+    height: 35px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  #partners section section .partners_container {
+    padding: 5px 15px;
+    gap: 15px;
+  }
+  #partners section section .partners_container .partner_item {
+    padding: 15px;
+  }
+  #partners section section .partners_container .partner_item img {
+    margin-bottom: 10px;
+  }
+  #Activities section section .activities_container .activities_grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view {
+    grid-column: 1/span 1;
+    width: 90%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view article {
+    width: 37%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside {
+    width: 53%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table td.email, #Activities section section .activities_container .activities_grid .activity_card.view aside table th.email {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  #Activities, #partners {
+    margin-top: 50px;
+  }
+  #Activities section nav, #partners section nav {
+    height: 80px;
+  }
+  #Activities section nav article, #Activities section nav aside, #partners section nav article, #partners section nav aside {
+    height: 50%;
+  }
+  #Activities section section article, #Activities section section aside, #partners section section article, #partners section section aside {
+    text-align: left;
+    height: 30px;
+    margin-top: -20px;
+  }
+  #Activities section nav article.top, #Activities section nav aside.top, #Activities section section article.top, #Activities section section aside.top, #partners section nav article.top, #partners section nav aside.top, #partners section section article.top, #partners section section aside.top {
+    height: 50px;
+  }
+  #Activities section nav article, #Activities section nav aside, #Activities section section article, #Activities section section aside, #partners section nav article, #partners section nav aside, #partners section section article, #partners section section aside {
+    width: 90%;
+    float: none;
+  }
+  #Activities section section article.top, #Activities section section aside.top {
+    height: 50px;
+    padding-top: 20px;
+  }
+  #Activities section section article.top {
+    width: 32%;
+    float: left;
+  }
+  #Activities section section aside.top {
+    width: 57%;
+    float: right;
+    text-align: right;
+  }
+  #Activities section section .activities_container .activities_grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  #Activities section section .activities_container .activities_grid .activity_card {
+    padding: 5px;
+    width: 275px;
+    height: 260px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card article {
+    width: 40%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card aside {
+    width: 45%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view {
+    padding: 5px;
+    grid-column: 1/span 1;
+    height: 480px;
+    width: 280px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view article {
+    width: 34%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside {
+    width: 50%;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table img {
+    width: 52px;
+    height: 35px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table td.contact, #Activities section section .activities_container .activities_grid .activity_card.view aside table td.organised, #Activities section section .activities_container .activities_grid .activity_card.view aside table th.contact, #Activities section section .activities_container .activities_grid .activity_card.view aside table th.organised {
+    display: none;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table td img, #Activities section section .activities_container .activities_grid .activity_card.view aside table th img {
+    width: 25px;
+    height: 25px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table td .part_form, #Activities section section .activities_container .activities_grid .activity_card.view aside table th .part_form {
+    font-size: 0;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table td .part_form a, #Activities section section .activities_container .activities_grid .activity_card.view aside table th .part_form a {
+    font-size: 12px;
+  }
+  #Activities section section .activities_container .activities_grid .activity_card.view aside table td.place, #Activities section section .activities_container .activities_grid .activity_card.view aside table td.date, #Activities section section .activities_container .activities_grid .activity_card.view aside table th.place, #Activities section section .activities_container .activities_grid .activity_card.view aside table th.date {
+    display: block;
+    width: 100%;
+    float: none;
+  }
+  #partners section section {
+    margin-top: 30px;
+  }
+  #partners section section aside.top {
+    text-align: right;
+  }
+  #partners section section article.top {
+    display: none;
+  }
+  #partners section section aside.top {
+    text-align: right;
+  }
+  #partners section section .partners_container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/*# sourceMappingURL=Activities_Partners.css.map */

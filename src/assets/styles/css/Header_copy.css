@@ -1,0 +1,302 @@
+/*-----------------
+5. Header
+-----------------------*/
+#mainNav {
+  width: 100%;
+  height: 100%;
+}
+#mainNav a {
+  font-style: none;
+  text-decoration: none;
+}
+#mainNav #header_left, #mainNav #header_right {
+  height: 100%;
+}
+#mainNav #header_right {
+  width: 280px;
+}
+#mainNav #header_left {
+  float: left;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+#mainNav #header_left article, #mainNav #header_left aside {
+  height: 100%;
+}
+#mainNav #header_left aside {
+  width: 50px;
+}
+#mainNav #header_left article {
+  float: left;
+}
+#mainNav #header_left article .logo {
+  align-items: center;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+}
+#mainNav #header_left article .logo span {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+#mainNav #header_left article .logo img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+#mainNav #header_left aside {
+  float: right;
+}
+#mainNav #header_left aside #show_sidebar img, #mainNav #header_left aside #hide-sidebar img {
+  width: 30px;
+  height: 25px;
+  margin-top: 12px;
+}
+#mainNav #header_left aside #hide-sidebar {
+  display: none;
+}
+#mainNav #header_left aside a {
+  display: inline-block;
+  vertical-align: middle;
+}
+#mainNav #header_right {
+  float: right;
+  text-align: right;
+}
+#mainNav #header_right ul {
+  height: 70%;
+  width: 180px;
+  list-style-type: none;
+  padding-bottom: 10px;
+  overflow: hidden;
+  margin-top: 0;
+  margin-right: 100px;
+}
+#mainNav #header_right ul li {
+  margin-right: 10px;
+  display: inline-block;
+  height: 100%;
+  width: 50px;
+}
+#mainNav #header_right ul li#user {
+  margin-top: 10px;
+}
+#mainNav #header_right ul li#messages, #mainNav #header_right ul li#notifications {
+  padding-bottom: 20px;
+}
+#mainNav #header_right ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 2px 3px;
+  text-decoration: none;
+}
+#mainNav #header_right ul li a .rounded_circle {
+  border-radius: 50%;
+}
+#mainNav #header_right ul li a i {
+  font-size: 19px;
+}
+#mainNav #header_right ul li a .badge {
+  color: rgb(187, 160, 7);
+  margin-top: -20px;
+  position: relative;
+}
+#mainNav #header_right ul li a img {
+  height: 30px;
+  width: 30px;
+}
+#mainNav #header_right ul li:hover {
+  background-color: rgba(128, 128, 128, 0.678);
+  border-radius: 5px;
+}
+#mainNav #header_right ul li#user:hover .dropdown_menu.user {
+  display: block;
+}
+#mainNav #header_right ul li#messages:hover .dropdown_menu.messages {
+  display: block;
+}
+#mainNav #header_right ul li#notifications:hover .dropdown_menu.notifications {
+  display: block;
+}
+#mainNav #header_right ul .dropdown_menu {
+  display: none;
+  position: absolute;
+  z-index: 9999;
+  min-width: 150px;
+  max-width: 300px;
+  width: 250px;
+  background-color: rgba(255, 255, 255, 0.9529411765);
+  border: 1px solid #ddd;
+  padding: 10px;
+  top: 48px;
+  right: 15px;
+  border-radius: 5px;
+}
+#mainNav #header_right ul .dropdown_menu .heading {
+  width: 100%;
+}
+#mainNav #header_right ul .dropdown_menu .heading h4 {
+  width: 60%;
+  padding-left: 5px;
+  float: left;
+  text-align: left;
+}
+#mainNav #header_right ul .dropdown_menu .heading span {
+  width: 30%;
+  float: right;
+  text-decoration: underline;
+}
+#mainNav #header_right ul .dropdown_menu .heading span Link, #mainNav #header_right ul .dropdown_menu .heading span a {
+  color: rgb(39, 25, 0);
+}
+#mainNav #header_right ul .dropdown_menu tr {
+  color: rgb(1, 1, 46);
+}
+#mainNav #header_right ul .dropdown_menu table {
+  width: 100%;
+  margin: 0;
+}
+#mainNav #header_right ul .dropdown_menu table tr {
+  border-bottom: 1px solid red;
+  width: 100%;
+  height: 20px;
+  margin-bottom: 5px;
+  background-color: rgba(221, 221, 221, 0.2862745098);
+}
+#mainNav #header_right ul .dropdown_menu table tr p {
+  margin: 0;
+  height: 18px;
+  padding-bottom: 2px;
+}
+#mainNav #header_right ul .dropdown_menu table tr td {
+  width: 70%;
+  max-width: 70%;
+  padding: 0;
+  margin: 0;
+}
+#mainNav #header_right ul .dropdown_menu table tr td.alert {
+  height: 18px;
+  width: 100%;
+  max-width: 100%;
+  text-align: left;
+}
+#mainNav #header_right ul .dropdown_menu table tr td.alert, #mainNav #header_right ul .dropdown_menu table tr td p:last-child {
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: inline-block;
+}
+#mainNav #header_right ul .dropdown_menu table tr td p {
+  width: 100%;
+  text-align: left;
+  height: 18px;
+}
+#mainNav #header_right ul .dropdown_menu table tr td p:last-child {
+  max-width: 100%;
+}
+#mainNav #header_right ul .dropdown_menu table tr td.icon i {
+  color: #36043A !important;
+  font-size: 16px !important;
+}
+#mainNav #header_right ul .dropdown_menu table tr td.icon i:hover {
+  color: #571616;
+}
+#mainNav #header_right ul .dropdown_menu table tr td:first-child, #mainNav #header_right ul .dropdown_menu table tr td:last-child {
+  width: 15%;
+}
+#mainNav #header_right ul .dropdown_menu table tr td:last-child i {
+  color: #571616;
+}
+#mainNav #header_right ul .dropdown_menu table tr.messages td:first-child {
+  width: 15%;
+}
+#mainNav #header_right ul .dropdown_menu table tr.messages td:last-child {
+  width: 85%;
+}
+#mainNav #header_right ul .dropdown_menu table tr:hover {
+  background-color: rgba(33, 2, 36, 0.2862745098) !important;
+  cursor: pointer;
+}
+#mainNav #header_right ul .dropdown_menu table i {
+  font-size: 12px;
+  padding-top: 10px;
+}
+#mainNav #header_right ul .dropdown_menu table button {
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+#mainNav #header_right ul .dropdown_menu.user {
+  background-color: #f1f1f1;
+  border: 1px solid #c7c7c7;
+  padding: 5px 10px;
+}
+#mainNav #header_right ul .dropdown_menu.user .user_header {
+  padding: 10px 15px;
+}
+#mainNav #header_right ul .dropdown_menu.user .user_header .avatar p:first-child {
+  font-weight: bold;
+}
+#mainNav #header_right ul .dropdown_menu.user .user_header .avatar img {
+  width: 100px;
+  height: 100px;
+}
+#mainNav #header_right ul .dropdown_menu.user table tr {
+  width: 100%;
+  background-color: rgba(255, 255, 0, 0);
+}
+#mainNav #header_right ul .dropdown_menu.user table tr td:last-child {
+  text-align: left;
+  width: 90%;
+}
+#mainNav #header_right ul .dropdown_menu.user table tr td:first-child {
+  text-align: right;
+  width: 10%;
+  padding: 0;
+}
+#mainNav #header_right ul .dropdown_menu.user table tr td:first-child i {
+  font-size: 20px;
+  padding: 0;
+}
+#mainNav #header_right ul #messages li a, #mainNav #header_right ul #notifications li a {
+  padding: 20px;
+}
+
+@media screen and (max-width: 900px) {
+  #mainNav {
+    width: 100%;
+    height: 100%;
+  }
+  #mainNav a {
+    font-style: none;
+    text-decoration: none;
+  }
+  #mainNav #header_left, #mainNav #header_right {
+    height: 100%;
+  }
+  #mainNav #header_right {
+    width: 174px;
+  }
+  #mainNav #header_right {
+    float: right;
+    text-align: left;
+    align-items: left;
+    padding: 0;
+  }
+  #mainNav #header_right ul {
+    margin-left: 0;
+    height: 70%;
+    width: 174px;
+    align-items: center;
+    text-align: center;
+    padding-left: 0;
+  }
+  #mainNav #header_right ul li {
+    margin-right: 3px;
+    width: 50px;
+  }
+}
+
+/*# sourceMappingURL=Header_copy.css.map */

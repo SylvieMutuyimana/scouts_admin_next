@@ -1,0 +1,152 @@
+#Reports {
+  margin-top: 30px;
+  height: 700px;
+  width: 96.5%;
+  text-align: center;
+}
+#Reports a, #Reports button {
+  cursor: pointer;
+}
+#Reports section {
+  padding-bottom: 30px;
+}
+#Reports section a {
+  color: rgb(85, 82, 82);
+  text-decoration: underline;
+  font-style: italic;
+}
+#Reports section nav {
+  text-align: center;
+  width: 100%;
+  height: 40px;
+}
+#Reports section nav article, #Reports section nav aside {
+  height: 100%;
+  text-align: center;
+}
+#Reports section nav article {
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+#Reports section nav article .error {
+  color: red;
+  font-style: italic;
+}
+#Reports section nav article label, #Reports section nav article input, #Reports section nav article button {
+  margin: 5px;
+}
+#Reports section nav aside {
+  float: right;
+  width: 50%;
+  text-align: right;
+  align-items: right;
+}
+#Reports section nav aside button {
+  background-color: #36043A;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 12px;
+  text-align: center;
+  height: 100%;
+  margin-right: 0%;
+}
+#Reports section nav aside button i {
+  margin-right: 5px;
+}
+#Reports section table {
+  margin-top: 15px;
+  border-collapse: collapse;
+  width: 100%;
+}
+#Reports section table tr {
+  height: 55px;
+}
+#Reports section table tr td, #Reports section table tr th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  height: 100%; /* Set the height of td to 100% */
+  /* Styles for the second p tag */
+}
+#Reports section table tr td:last-child, #Reports section table tr th:last-child {
+  padding-top: 8px;
+}
+#Reports section table tr td article, #Reports section table tr th article {
+  float: left;
+  height: 100%;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Reports section table tr td article img, #Reports section table tr th article img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+#Reports section table tr td aside, #Reports section table tr th aside {
+  height: 100%;
+  float: right;
+  width: 70%;
+  margin-right: 5%;
+}
+#Reports section table tr td aside p, #Reports section table tr th aside p {
+  text-align: left;
+}
+#Reports section table tr td p, #Reports section table tr th p {
+  /* Set the height of p to 50% */
+  height: 40%;
+  margin: 0;
+}
+#Reports section table tr td p:last-of-type, #Reports section table tr th p:last-of-type {
+  margin-top: 2.5%;
+  font-style: italic;
+  color: grey;
+}
+#Reports section table tr td.Action, #Reports section table tr th.Action {
+  text-align: center;
+}
+#Reports section table tr td.Action a:first-child, #Reports section table tr th.Action a:first-child {
+  margin-right: 5px;
+}
+#Reports section table tr td.Action a:last-child, #Reports section table tr th.Action a:last-child {
+  margin-left: 5px;
+}
+#Reports section table tr:nth-child(odd) {
+  background-color: rgba(170, 169, 169, 0.02);
+}
+#Reports section table tr:nth-child(even) {
+  background-color: rgba(170, 169, 169, 0.15);
+}
+#Reports section table th {
+  font-weight: bold;
+  text-align: center;
+  background-color: rgba(202, 201, 201, 0.69);
+}
+
+@media screen and (max-width: 1000px) {
+  #Reports section table td.Address, #Reports section table td.District, #Reports section table td.Tenure, #Reports section table td.Author, #Reports section table th.Address, #Reports section table th.District, #Reports section table th.Tenure, #Reports section table th.Author {
+    display: none;
+  }
+}
+@media screen and (max-width: 700px) {
+  #Reports section nav {
+    height: 80px;
+  }
+  #Reports section nav article, #Reports section nav aside {
+    width: 100%;
+    float: none;
+    height: 50%;
+  }
+  #Reports section table td.Tenure, #Reports section table td.Occupation, #Reports section table td.Date_Uploaded, #Reports section table th.Tenure, #Reports section table th.Occupation, #Reports section table th.Date_Uploaded {
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  #Reports section table td.Age, #Reports section table td.Contact, #Reports section table td.Date_Published, #Reports section table th.Age, #Reports section table th.Contact, #Reports section table th.Date_Published {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=Reports.module.css.map */

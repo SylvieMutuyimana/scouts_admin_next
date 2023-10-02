@@ -1,0 +1,289 @@
+/*For the add pages*/
+#add_report, #add_member, #add_volunteer, #add_partner, #add_activity {
+  background-color: white;
+  padding: 10px 5% 5px 5%;
+  margin: 30px 30px 30px 0px;
+  width: 90.5%;
+  text-align: center;
+}
+#add_report button, #add_member button, #add_volunteer button, #add_partner button, #add_activity button {
+  cursor: pointer;
+  background-color: #36043A;
+  color: white;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  width: 130px;
+}
+#add_report button.back, #add_report button#add, #add_member button.back, #add_member button#add, #add_volunteer button.back, #add_volunteer button#add, #add_partner button.back, #add_partner button#add, #add_activity button.back, #add_activity button#add {
+  color: rgb(0, 0, 27);
+}
+#add_report button.back, #add_member button.back, #add_volunteer button.back, #add_partner button.back, #add_activity button.back {
+  background-color: rgba(0, 0, 255, 0);
+  border: none;
+  font-size: 20px;
+  width: 25px;
+}
+#add_report button#add, #add_report button.clear, #add_member button#add, #add_member button.clear, #add_volunteer button#add, #add_volunteer button.clear, #add_partner button#add, #add_partner button.clear, #add_activity button#add, #add_activity button.clear {
+  background-color: none;
+  text-decoration: underline;
+  border: none;
+  background-color: rgba(255, 222, 173, 0);
+  font-size: 14px;
+}
+#add_report nav, #add_member nav, #add_volunteer nav, #add_partner nav, #add_activity nav {
+  margin-top: 20px;
+  height: 40px;
+  text-align: left;
+}
+#add_report nav button, #add_member nav button, #add_volunteer nav button, #add_partner nav button, #add_activity nav button {
+  margin: 0;
+}
+#add_report nav button.back, #add_member nav button.back, #add_volunteer nav button.back, #add_partner nav button.back, #add_activity nav button.back {
+  float: left;
+}
+#add_report nav button.clear, #add_member nav button.clear, #add_volunteer nav button.clear, #add_partner nav button.clear, #add_activity nav button.clear {
+  float: right;
+  color: rgb(161, 11, 11);
+}
+#add_report nav h3, #add_member nav h3, #add_volunteer nav h3, #add_partner nav h3, #add_activity nav h3 {
+  margin-top: 20px;
+  color: #5F8D4E;
+  text-decoration: underline;
+}
+#add_report form, #add_member form, #add_volunteer form, #add_partner form, #add_activity form {
+  height: 500px;
+  width: 100%;
+  text-align: left;
+  align-items: left;
+}
+#add_report form article, #add_member form article, #add_volunteer form article, #add_partner form article, #add_activity form article {
+  float: left;
+}
+#add_report form aside, #add_member form aside, #add_volunteer form aside, #add_partner form aside, #add_activity form aside {
+  float: right;
+}
+#add_report form article label, #add_report form aside label, #add_member form article label, #add_member form aside label, #add_volunteer form article label, #add_volunteer form aside label, #add_partner form article label, #add_partner form aside label, #add_activity form article label, #add_activity form aside label {
+  text-align: left;
+}
+#add_report form article label p, #add_report form aside label p, #add_member form article label p, #add_member form aside label p, #add_volunteer form article label p, #add_volunteer form aside label p, #add_partner form article label p, #add_partner form aside label p, #add_activity form article label p, #add_activity form aside label p {
+  width: 80%;
+}
+#add_report form article label p div, #add_report form aside label p div, #add_member form article label p div, #add_member form aside label p div, #add_volunteer form article label p div, #add_volunteer form aside label p div, #add_partner form article label p div, #add_partner form aside label p div, #add_activity form article label p div, #add_activity form aside label p div {
+  width: 50%;
+  margin-bottom: 5px;
+}
+#add_report form article label p div:first-child, #add_report form aside label p div:first-child, #add_member form article label p div:first-child, #add_member form aside label p div:first-child, #add_volunteer form article label p div:first-child, #add_volunteer form aside label p div:first-child, #add_partner form article label p div:first-child, #add_partner form aside label p div:first-child, #add_activity form article label p div:first-child, #add_activity form aside label p div:first-child {
+  text-align: left;
+  float: left;
+}
+#add_report form article label p div:last-child, #add_report form aside label p div:last-child, #add_member form article label p div:last-child, #add_member form aside label p div:last-child, #add_volunteer form article label p div:last-child, #add_volunteer form aside label p div:last-child, #add_partner form article label p div:last-child, #add_partner form aside label p div:last-child, #add_activity form article label p div:last-child, #add_activity form aside label p div:last-child {
+  text-align: right;
+  float: right;
+}
+#add_report form article label input, #add_report form article label select, #add_report form aside label input, #add_report form aside label select, #add_member form article label input, #add_member form article label select, #add_member form aside label input, #add_member form aside label select, #add_volunteer form article label input, #add_volunteer form article label select, #add_volunteer form aside label input, #add_volunteer form aside label select, #add_partner form article label input, #add_partner form article label select, #add_partner form aside label input, #add_partner form aside label select, #add_activity form article label input, #add_activity form article label select, #add_activity form aside label input, #add_activity form aside label select {
+  width: 80%;
+  padding: 10px;
+  display: inline-block;
+  border: #36043A;
+  margin-bottom: 5px;
+  border: 2px;
+  background-color: rgba(54, 4, 58, 0.1098039216);
+}
+#add_report form article label input#left, #add_report form article label input#right, #add_report form article label select#left, #add_report form article label select#right, #add_report form aside label input#left, #add_report form aside label input#right, #add_report form aside label select#left, #add_report form aside label select#right, #add_member form article label input#left, #add_member form article label input#right, #add_member form article label select#left, #add_member form article label select#right, #add_member form aside label input#left, #add_member form aside label input#right, #add_member form aside label select#left, #add_member form aside label select#right, #add_volunteer form article label input#left, #add_volunteer form article label input#right, #add_volunteer form article label select#left, #add_volunteer form article label select#right, #add_volunteer form aside label input#left, #add_volunteer form aside label input#right, #add_volunteer form aside label select#left, #add_volunteer form aside label select#right, #add_partner form article label input#left, #add_partner form article label input#right, #add_partner form article label select#left, #add_partner form article label select#right, #add_partner form aside label input#left, #add_partner form aside label input#right, #add_partner form aside label select#left, #add_partner form aside label select#right, #add_activity form article label input#left, #add_activity form article label input#right, #add_activity form article label select#left, #add_activity form article label select#right, #add_activity form aside label input#left, #add_activity form aside label input#right, #add_activity form aside label select#left, #add_activity form aside label select#right {
+  width: 37%;
+}
+#add_report form article label input#right, #add_report form article label select#right, #add_report form aside label input#right, #add_report form aside label select#right, #add_member form article label input#right, #add_member form article label select#right, #add_member form aside label input#right, #add_member form aside label select#right, #add_volunteer form article label input#right, #add_volunteer form article label select#right, #add_volunteer form aside label input#right, #add_volunteer form aside label select#right, #add_partner form article label input#right, #add_partner form article label select#right, #add_partner form aside label input#right, #add_partner form aside label select#right, #add_activity form article label input#right, #add_activity form article label select#right, #add_activity form aside label input#right, #add_activity form aside label select#right {
+  margin-left: 5px;
+}
+#add_report form article label select#district, #add_report form article label select#province, #add_report form article label select#title, #add_report form article label select#contact, #add_report form aside label select#district, #add_report form aside label select#province, #add_report form aside label select#title, #add_report form aside label select#contact, #add_member form article label select#district, #add_member form article label select#province, #add_member form article label select#title, #add_member form article label select#contact, #add_member form aside label select#district, #add_member form aside label select#province, #add_member form aside label select#title, #add_member form aside label select#contact, #add_volunteer form article label select#district, #add_volunteer form article label select#province, #add_volunteer form article label select#title, #add_volunteer form article label select#contact, #add_volunteer form aside label select#district, #add_volunteer form aside label select#province, #add_volunteer form aside label select#title, #add_volunteer form aside label select#contact, #add_partner form article label select#district, #add_partner form article label select#province, #add_partner form article label select#title, #add_partner form article label select#contact, #add_partner form aside label select#district, #add_partner form aside label select#province, #add_partner form aside label select#title, #add_partner form aside label select#contact, #add_activity form article label select#district, #add_activity form article label select#province, #add_activity form article label select#title, #add_activity form article label select#contact, #add_activity form aside label select#district, #add_activity form aside label select#province, #add_activity form aside label select#title, #add_activity form aside label select#contact {
+  width: 40%;
+}
+#add_report form article label select#district, #add_report form article label select#contact, #add_report form article label select#title, #add_report form aside label select#district, #add_report form aside label select#contact, #add_report form aside label select#title, #add_member form article label select#district, #add_member form article label select#contact, #add_member form article label select#title, #add_member form aside label select#district, #add_member form aside label select#contact, #add_member form aside label select#title, #add_volunteer form article label select#district, #add_volunteer form article label select#contact, #add_volunteer form article label select#title, #add_volunteer form aside label select#district, #add_volunteer form aside label select#contact, #add_volunteer form aside label select#title, #add_partner form article label select#district, #add_partner form article label select#contact, #add_partner form article label select#title, #add_partner form aside label select#district, #add_partner form aside label select#contact, #add_partner form aside label select#title, #add_activity form article label select#district, #add_activity form article label select#contact, #add_activity form article label select#title, #add_activity form aside label select#district, #add_activity form aside label select#contact, #add_activity form aside label select#title {
+  margin-left: 5px;
+}
+#add_report form article label input[type=file], #add_report form aside label input[type=file], #add_member form article label input[type=file], #add_member form aside label input[type=file], #add_volunteer form article label input[type=file], #add_volunteer form aside label input[type=file], #add_partner form article label input[type=file], #add_partner form aside label input[type=file], #add_activity form article label input[type=file], #add_activity form aside label input[type=file] {
+  background-color: rgba(128, 128, 128, 0);
+  color: #333;
+}
+#add_report form article label select option, #add_report form aside label select option, #add_member form article label select option, #add_member form aside label select option, #add_volunteer form article label select option, #add_volunteer form aside label select option, #add_partner form article label select option, #add_partner form aside label select option, #add_activity form article label select option, #add_activity form aside label select option {
+  padding: 5px;
+}
+#add_report form article label#start, #add_report form article label#end, #add_report form aside label#start, #add_report form aside label#end, #add_member form article label#start, #add_member form article label#end, #add_member form aside label#start, #add_member form aside label#end, #add_volunteer form article label#start, #add_volunteer form article label#end, #add_volunteer form aside label#start, #add_volunteer form aside label#end, #add_partner form article label#start, #add_partner form article label#end, #add_partner form aside label#start, #add_partner form aside label#end, #add_activity form article label#start, #add_activity form article label#end, #add_activity form aside label#start, #add_activity form aside label#end {
+  width: 44%;
+}
+#add_report form article label#start, #add_report form aside label#start, #add_member form article label#start, #add_member form aside label#start, #add_volunteer form article label#start, #add_volunteer form aside label#start, #add_partner form article label#start, #add_partner form aside label#start, #add_activity form article label#start, #add_activity form aside label#start {
+  float: left;
+}
+#add_report form article label#end, #add_report form aside label#end, #add_member form article label#end, #add_member form aside label#end, #add_volunteer form article label#end, #add_volunteer form aside label#end, #add_partner form article label#end, #add_partner form aside label#end, #add_activity form article label#end, #add_activity form aside label#end {
+  float: left;
+  margin-left: 1.5%;
+}
+#add_report form footer, #add_member form footer, #add_volunteer form footer, #add_partner form footer, #add_activity form footer {
+  width: 100%;
+  text-align: center;
+  height: 100px;
+}
+
+#add_member, #add_volunteer, #add_partner {
+  height: 700px;
+}
+#add_member form article, #add_member form aside, #add_volunteer form article, #add_volunteer form aside, #add_partner form article, #add_partner form aside {
+  width: 50%;
+  height: 460px;
+}
+
+#add_report {
+  height: 700px;
+}
+#add_report form article, #add_report form aside {
+  width: 100%;
+  height: 470px;
+}
+
+#add_member.adult {
+  height: 900px;
+}
+#add_member.adult article, #add_member.adult aside {
+  height: 700px;
+}
+#add_member.scout {
+  height: 750px;
+}
+#add_member.scout article, #add_member.scout aside {
+  height: 550px;
+}
+#add_member form article .checkbox_grid, #add_member form aside .checkbox_grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  width: 93%;
+}
+#add_member form article .checkbox_grid .checkbox_item, #add_member form aside .checkbox_grid .checkbox_item {
+  display: flex;
+  align-items: left;
+}
+#add_member form article .checkbox_grid .checkbox_item input[type=checkbox], #add_member form aside .checkbox_grid .checkbox_item input[type=checkbox] {
+  width: 40px;
+}
+
+#add_partner {
+  height: 600px;
+}
+#add_partner form article, #add_partner form aside {
+  padding: 0px 2.5%;
+  width: 45%;
+  height: 425px;
+}
+#add_partner form article label input, #add_partner form aside label input {
+  width: 45%;
+}
+#add_partner form article label input[type=file], #add_partner form aside label input[type=file] {
+  margin-right: 5px;
+}
+#add_partner form article label input[type=text], #add_partner form article label textarea, #add_partner form aside label input[type=text], #add_partner form aside label textarea {
+  background-color: #faf9f9;
+  border: 1px solid #aaaaaa;
+  border-radius: 5px;
+}
+#add_partner form article label textarea, #add_partner form aside label textarea {
+  height: 60px;
+  width: 45%;
+  float: right;
+}
+#add_partner form article #new_partner, #add_partner form aside #new_partner {
+  height: 170px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgba(51, 51, 51, 0.062745098);
+}
+#add_partner form article #new_partner:last-child, #add_partner form aside #new_partner:last-child {
+  margin-top: 10px;
+}
+
+#add_activity {
+  height: 670px;
+}
+#add_activity form article, #add_activity form aside {
+  width: 32.5%;
+  height: 460px;
+}
+#add_activity form article label input#district, #add_activity form article label input#province, #add_activity form article label input#title, #add_activity form article label input#contact, #add_activity form aside label input#district, #add_activity form aside label input#province, #add_activity form aside label input#title, #add_activity form aside label input#contact {
+  width: 36%;
+}
+#add_activity form aside {
+  margin-left: 1%;
+}
+
+@media screen and (max-width: 1100px) {
+  #add_partner {
+    height: 1040px;
+  }
+  #add_partner form article, #add_partner form aside {
+    width: 100%;
+    height: 425px;
+    float: none;
+  }
+  #add_partner form article label input[type=file], #add_partner form aside label input[type=file] {
+    width: 100%;
+  }
+  #add_partner form aside {
+    margin-top: -25px;
+  }
+  #add_partner form footer {
+    margin-top: -20px;
+  }
+}
+@media screen and (max-width: 800px) {
+  #add_member form article, #add_member form aside, #add_volunteer form article, #add_volunteer form aside, #add_activity form article, #add_activity form aside {
+    width: 100%;
+    height: 425px;
+    float: none;
+  }
+  #add_member, #add_volunteer {
+    height: 1050px;
+  }
+  #add_member form, #add_volunteer form {
+    height: 1000px;
+  }
+  #add_member form aside, #add_volunteer form aside {
+    margin-top: -20px;
+  }
+  #add_member, #add_volunteer {
+    height: 1550px;
+  }
+  #add_member form, #add_volunteer form {
+    height: 1350px;
+  }
+  #add_member form article, #add_member form aside, #add_volunteer form article, #add_volunteer form aside {
+    height: 650px;
+  }
+  #add_member form aside, #add_volunteer form aside {
+    margin-top: -20px;
+  }
+  #add_member.adult {
+    height: 1600px !important;
+  }
+  #add_member.scout {
+    height: 1350px !important;
+  }
+  #add_activity {
+    height: 1570px;
+  }
+  #add_activity form {
+    height: 1500px;
+  }
+  #add_activity form article, #add_activity form aside {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+  #add_activity form article:last-child {
+    height: auto;
+  }
+  #add_activity form footer button {
+    margin-top: 40px;
+  }
+}
+
+/*# sourceMappingURL=Add_pages.css.map */

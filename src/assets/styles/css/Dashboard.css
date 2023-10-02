@@ -1,0 +1,184 @@
+#Dashboard ul {
+  height: auto;
+  width: 100%;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+}
+#Dashboard ul a {
+  cursor: pointer;
+  color: rgb(85, 82, 82);
+  text-decoration: underline;
+  font-style: italic;
+}
+#Dashboard ul article, #Dashboard ul aside {
+  width: 100%;
+  text-align: center;
+}
+#Dashboard ul article {
+  float: left;
+}
+#Dashboard ul aside {
+  float: right;
+}
+#Dashboard ul.row_one article, #Dashboard ul.row_one aside, #Dashboard ul.row_two article, #Dashboard ul.row_two aside {
+  width: 50%;
+}
+#Dashboard ul.row_one {
+  height: 120px;
+}
+#Dashboard ul.row_one i {
+  color: rgba(0, 0, 0, 0.24);
+}
+#Dashboard ul.row_one article, #Dashboard ul.row_one aside {
+  height: 100%;
+}
+#Dashboard ul.row_one article nav, #Dashboard ul.row_one aside nav {
+  height: 30px;
+  margin-left: 0;
+}
+#Dashboard ul.row_one article li, #Dashboard ul.row_one aside li {
+  text-decoration: none;
+  float: left;
+  background-color: #fff;
+  border-radius: 4px;
+  height: 80px;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  width: 39.5%;
+  text-align: center;
+}
+#Dashboard ul.row_one article li.one, #Dashboard ul.row_one article li.two, #Dashboard ul.row_one aside li.one, #Dashboard ul.row_one aside li.two {
+  margin-left: 7%;
+}
+#Dashboard ul.row_one article li .dash_widget_bg, #Dashboard ul.row_one article li .dash_widget_info, #Dashboard ul.row_one aside li .dash_widget_bg, #Dashboard ul.row_one aside li .dash_widget_info {
+  width: 100%;
+}
+#Dashboard ul.row_one article li .dash_widget_bg, #Dashboard ul.row_one aside li .dash_widget_bg {
+  height: 100%;
+  width: 40%;
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: #fff;
+}
+#Dashboard ul.row_one article li .dash_widget_bg i, #Dashboard ul.row_one aside li .dash_widget_bg i {
+  font-size: 30px;
+}
+#Dashboard ul.row_one article li .dash_widget_info, #Dashboard ul.row_one aside li .dash_widget_info {
+  float: right;
+  width: 60%;
+  height: 90%;
+  margin-top: 2.5%;
+}
+#Dashboard ul.row_one article li .dash_widget_info h3, #Dashboard ul.row_one article li .dash_widget_info span, #Dashboard ul.row_one aside li .dash_widget_info h3, #Dashboard ul.row_one aside li .dash_widget_info span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#Dashboard ul.row_one article li .dash_widget_info h3, #Dashboard ul.row_one aside li .dash_widget_info h3 {
+  margin-top: 0;
+  height: 40%;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+#Dashboard ul.row_one article li .dash_widget_info span, #Dashboard ul.row_one aside li .dash_widget_info span {
+  margin-top: 5px;
+  margin-right: 5px;
+  height: 45%;
+  background: #7aa37a;
+  color: #fff;
+  border-radius: 4px;
+}
+#Dashboard ul.row_one article li .dash_widget_info span i, #Dashboard ul.row_one aside li .dash_widget_info span i {
+  background-color: white;
+  color: grey;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+#Dashboard ul.row_two {
+  height: 285px;
+}
+#Dashboard ul.row_two section {
+  height: 80%;
+}
+#Dashboard ul.row_two section article, #Dashboard ul.row_two section aside {
+  height: 100%;
+  width: 49%;
+}
+#Dashboard ul.row_three article, #Dashboard ul.row_three aside, #Dashboard ul.row_four article, #Dashboard ul.row_four aside {
+  background-color: white;
+}
+#Dashboard ul.row_three {
+  height: 370px;
+}
+#Dashboard ul.row_three p span {
+  width: 25%;
+  float: left;
+  margin-left: 2.5%;
+}
+#Dashboard ul.row_three p .left {
+  text-align: left;
+}
+#Dashboard ul.row_three p .right {
+  text-align: right;
+}
+#Dashboard ul.row_three article {
+  width: 59.5%;
+}
+#Dashboard ul.row_three aside {
+  width: 39.5%;
+}
+#Dashboard ul.row_four {
+  height: 350px;
+}
+#Dashboard ul.row_four article {
+  width: 69.5%;
+}
+#Dashboard ul.row_four aside {
+  width: 29.5%;
+}
+
+@media screen and (max-width: 1000px) {
+  #Dashboard ul.row_one, #Dashboard ul.row_two, #Dashboard ul.row_three, #Dashboard ul.row_four {
+    height: auto;
+  }
+  #Dashboard ul.row_one article, #Dashboard ul.row_one aside, #Dashboard ul.row_two article, #Dashboard ul.row_two aside, #Dashboard ul.row_three article, #Dashboard ul.row_three aside, #Dashboard ul.row_four article, #Dashboard ul.row_four aside {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+  #Dashboard ul.row_one aside, #Dashboard ul.row_two aside, #Dashboard ul.row_three aside, #Dashboard ul.row_four aside {
+    margin-top: 10px;
+  }
+  #Dashboard ul.row_one article, #Dashboard ul.row_one aside {
+    height: 120px;
+  }
+  #Dashboard ul.row_three p span {
+    width: 50%;
+  }
+  #Dashboard ul.row_two section article, #Dashboard ul.row_two section aside {
+    width: 87%;
+    align-items: center;
+  }
+}
+@media screen and (min-width: 1400px) {
+  #Dashboard ul.row_one {
+    height: 150px;
+  }
+  #Dashboard ul.row_one article nav, #Dashboard ul.row_one aside nav {
+    height: 25%;
+  }
+  #Dashboard ul.row_one article li, #Dashboard ul.row_one aside li {
+    height: 70%;
+  }
+  #Dashboard ul.row_two {
+    height: 350px;
+  }
+}
+
+/*# sourceMappingURL=Dashboard.css.map */

@@ -1,0 +1,33 @@
+[
+  {
+    "userid": "39450",
+    "notifications": [
+      {"type": "add", "alert": "A new activity has been added fnjkfd dkfn sfjnm fsjkfns fsnfs"},
+      {"type": "add", "alert": "A new sponsor has been added"},
+      {"type": "add", "alert": "A new activity has been added"},
+      {"type": "remove", "alert": "A sponsor has been removed"},
+      {"type": "remove", "alert": "A sponsor has been removed"}
+    ]
+  },
+  {
+    "userid": "34039",
+    "notifications": [
+      {"type": "add", "alert": "A new activity has been added fnjkfd dkfn sfjnm fsjkfns fsnfs"},
+      {"type": "add", "alert": "A new sponsor has been added"},
+      {"type": "add", "alert": "A new activity has been added"},
+      {"type": "remove", "alert": "A sponsor has been removed"},
+      {"type": "remove", "alert": "A sponsor has been removed"}
+    ]
+  },
+  {
+    "userid": "343",
+    "notifications": [
+      {"type": "add", "alert": "A new activity has been added fnjkfd dkfn sfjnm fsjkfns fsnfs"},
+      {"type": "add", "alert": "A new sponsor has been added"},
+      {"type": "add", "alert": "A new activity has been added"},
+      {"type": "remove", "alert": "A sponsor has been removed"},
+      {"type": "remove", "alert": "A sponsor has been removed"}
+    ]
+  }
+]
+

@@ -1,0 +1,5682 @@
+{
+  "Kigali": {
+    "Gasabo": {
+      "Sector1": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],        
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector2": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector3": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Kicukiro": {
+      "Sector4": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector5": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyarugenge": {
+      "Sector6": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector7": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector8": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector9": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    }
+  },
+  "Northern": {
+    "Burera": {
+      "Sector10": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector11": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Gakenke": {
+      "Sector12": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector13": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector14": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Gicumbi": {
+      "Sector15": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Musanze": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Rulindo": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    }
+  },
+  "Southern": {
+    "Gisagara": {
+      "Sector10": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector11": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Huye": {
+      "Sector12": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector13": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector14": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Kamonyi": {
+      "Sector15": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Muhanga": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyamagabe": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyanza": {
+      "Sector15": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyaruguru": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Ruhango": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    }
+  },
+  "Eastern": {
+    "Bugesera": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Gatsibo": {
+      "Sector15": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Kayonza": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Kirehe": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Ngoma": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyagatare": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Rwamagana": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    }
+  },
+  "Western": {
+    "Karongi": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Ngororero": {
+      "Sector15": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyabihu": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Nyamasheke": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Rubavu": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Rusizi": {
+      "Sector18": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    },
+    "Rutsiro": {
+      "Sector16": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      },
+      "Sector17": {
+        "cell1": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ],
+        "cell2": [
+        {
+          "name": "Olivia Davis",
+          "image": "female",
+          "gender": "Female",
+          "age": 10,
+          "street": "246 Maple St",
+          "occupation": "Nurse",
+          "contact": {
+            "phone": "0786405045",
+            "email": "olivia@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Grace Davis",
+          "image": "dude",
+          "gender": "Female",
+          "age": 8,
+          "street": "246 Maple St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "grace@example.com"
+          },
+          "tenure": 2
+        },
+        {
+          "name": "Henry Johnson",
+          "image": "guy",
+          "gender": "Male",
+          "age": 35,
+          "street": "456 Elm St",
+          "occupation": "Teacher",
+          "contact": {
+            "phone": "0786405045",
+            "email": "henry@example.com"
+          },
+          "tenure": 3
+        },
+        {
+          "name": "Michael Smith",
+          "image": "guy",
+          "gender": "Male",
+          "age": 12,
+          "street": "579 Cedar St",
+          "occupation": "Student",
+          "contact": {
+            "phone": "0786405045",
+            "email": "michael@example.com"
+          },
+          "tenure": 4
+        }
+        ]
+      }
+    }
+  }
+}

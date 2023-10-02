@@ -1,0 +1,38 @@
+{
+  "name": "rsa_next_js",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "Sylvie Mutuyimana",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.5.1",
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "axios": "^1.5.0",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "chart.js": "^4.3.3",
+    "cloudinary": "^1.40.0",
+    "cloudinary-core": "^2.13.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^5.7.0",
+    "mongodb-connection-string-url": "^2.6.0",
+    "mongoose": "^7.4.5",
+    "next": "^13.4.19",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0",
+    "sass": "^1.66.1",
+    "uuid": "^9.0.0"
+  }
+}

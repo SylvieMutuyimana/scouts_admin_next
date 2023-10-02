@@ -1,0 +1,84 @@
+#App a:hover,
+#App a:active,
+#App a:focus {
+  text-decoration: none;
+  color: #94109F;
+  outline: none;
+}
+#App a {
+  color: #ffffff;
+}
+#App input,
+#App button,
+#App a {
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  -ms-transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+#App input:focus, #App input:active, #App input:hover,
+#App button:focus,
+#App button:active,
+#App button:hover,
+#App a:focus,
+#App a:active,
+#App a:hover {
+  outline: none;
+}
+#App input[type=file] {
+  height: auto;
+  padding: 6px 0.75rem;
+}
+#App input[type=text],
+#App input[type=password] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+#App .header {
+  background-color: #36043A;
+  left: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1039;
+  height: 50px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+#App .sidebar {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  top: 50px;
+  width: 230px;
+  z-index: 1039;
+  background-color: #94109F;
+  bottom: 0;
+  margin-top: 0px;
+  position: fixed;
+  left: 0;
+  transition: all 0.2s ease-in-out;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overflow: hidden;
+}
+#App .sidebar.opened {
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+#App .page_wrapper {
+  left: 0;
+  padding-top: 50px;
+  position: relative;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+#App .page_wrapper > .content {
+  padding: 30px;
+}
+#App .content {
+  margin-top: -30px;
+}
+
+/*# sourceMappingURL=App.module.css.map */

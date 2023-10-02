@@ -1,0 +1,235 @@
+#Messages {
+  margin-top: 10px;
+  height: 550px;
+  width: 1000px;
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  z-index: 1;
+}
+#Messages section, #Messages nav {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  width: 1000px;
+}
+#Messages nav {
+  margin-top: 0;
+  height: 60px;
+  margin-bottom: 10px;
+}
+#Messages nav ul {
+  text-align: left;
+  list-style-type: none;
+  height: 60%;
+}
+#Messages nav ul li {
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  color: #18001A;
+  cursor: pointer;
+  height: 40px;
+}
+#Messages nav ul li i {
+  font-size: 20px;
+}
+#Messages nav .ul1 {
+  margin: 0;
+  float: left;
+  width: 60%;
+  text-align: left;
+  padding: 0;
+}
+#Messages nav .ul1 li {
+  text-align: center;
+  margin: 0;
+  width: 150px;
+  background-color: white;
+  padding-top: 10px;
+}
+#Messages nav .ul1 li i {
+  margin-top: 2px;
+  margin-right: 4px;
+}
+#Messages nav .ul1 li:first-child {
+  border-right: 2px solid grey;
+}
+#Messages nav .ul1 li:last-child {
+  margin-left: 3px;
+}
+#Messages nav .ul1 li:active {
+  background-color: rgba(54, 4, 58, 0.137254902);
+}
+#Messages nav .ul2 {
+  float: right;
+  width: 30%;
+  text-align: right;
+  margin-left: 10%;
+}
+#Messages nav .ul2 i {
+  color: white;
+}
+#Messages nav .ul2 li {
+  height: 30px;
+}
+#Messages nav .ul2 li:first-child {
+  border-right: 2px solid grey;
+}
+#Messages nav .ul2 aside, #Messages nav .ul2 article {
+  margin-top: 1%;
+  width: 120px;
+  background-color: #36043A;
+  border-radius: 5px;
+}
+#Messages nav .ul2 aside li, #Messages nav .ul2 article li {
+  width: 48%;
+}
+#Messages nav .ul2 aside img, #Messages nav .ul2 aside i, #Messages nav .ul2 article img, #Messages nav .ul2 article i {
+  margin-top: 2px;
+  width: 25px;
+  height: 25px;
+  font-size: 25px;
+}
+#Messages nav .ul2 aside button, #Messages nav .ul2 article button {
+  background-color: transparent;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+#Messages nav .ul2 article {
+  float: left;
+  margin-left: 2%;
+}
+#Messages nav .ul2 aside {
+  float: right;
+}
+#Messages section {
+  background-color: rgba(54, 4, 58, 0.1450980392);
+  margin-top: 60px;
+  height: 490px;
+  border: 2px solid rgba(102, 102, 102, 0.2470588235);
+}
+#Messages section #new_form_container {
+  background-color: #ffffff;
+  position: relative;
+  z-index: 1;
+  margin-top: -480px;
+  height: 480px;
+}
+#Messages section #new_form_container .container {
+  margin-top: 7px;
+  border-radius: 5px;
+  border: 1px solid rgba(75, 75, 75, 0.2470588235);
+  height: 460px;
+  text-align: left;
+}
+#Messages section #new_form_container .container.sms {
+  border: 0px solid transparent;
+}
+#Messages section #new_form_container .container .the_head {
+  height: 50px;
+  margin-top: 0;
+  background-color: hsla(0, 1%, 82%, 0.6);
+  border-bottom: 1px solid rgba(95, 94, 94, 0.219);
+  box-shadow: 0px 2px 20px -10px rgba(83, 81, 81, 0.2);
+}
+#Messages section #new_form_container .container .the_head.sms {
+  background-color: hsla(0, 1%, 82%, 0);
+}
+#Messages section #new_form_container .container aside, #Messages section #new_form_container .container article {
+  width: 50%;
+}
+#Messages section #new_form_container .container aside {
+  float: right;
+}
+#Messages section #new_form_container .container article {
+  float: left;
+}
+#Messages section #new_form_container .container article, #Messages section #new_form_container .container aside {
+  height: 100%;
+}
+#Messages section #new_form_container .container article h4, #Messages section #new_form_container .container aside h4 {
+  font-size: 16px;
+  color: black;
+  font-weight: normal;
+  height: 20px;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+#Messages section #new_form_container.sms {
+  width: 100%;
+  border: 0px solid rgba(255, 0, 0, 0);
+}
+#Messages section #new_form_container.sms .the_head {
+  background-color: none;
+}
+#Messages section #new_form_container .recipient, #Messages section #new_form_container .the_subject {
+  height: 40px;
+  border-bottom: 1px solid rgba(95, 94, 94, 0.082);
+  margin: 0px 3px;
+  padding-left: 2px;
+}
+#Messages section #new_form_container .body {
+  height: 280px;
+  width: 100%;
+  padding-left: 2px;
+}
+#Messages section #new_form_container .body.sms {
+  height: 330px;
+}
+#Messages section #new_form_container .the_footer {
+  height: 50px;
+  margin-bottom: 0px;
+  background-color: hsla(0, 2%, 73%, 0.096);
+  border-top: 1px solid rgba(95, 94, 94, 0.26);
+  box-shadow: 10px 0px 20px -10px rgba(34, 24, 24, 0.3137254902);
+}
+#Messages section #new_form_container button#send {
+  background-color: #38023D;
+  padding: 5px;
+  border-radius: 5px;
+  width: 80px;
+  height: 30px;
+  margin-top: 8px;
+  margin-left: 5px;
+  color: #ccc;
+}
+#Messages section #new_form_container button#send i {
+  font-size: 15px;
+  margin-left: 5px;
+}
+#Messages section #new_form_container textarea, #Messages section #new_form_container input, #Messages section #new_form_container select {
+  background-color: transparent;
+  border: none;
+}
+#Messages section #new_form_container input, #Messages section #new_form_container select {
+  height: 80%;
+  margin-top: 5px;
+  width: 80%;
+}
+#Messages section #new_form_container select {
+  width: 80px;
+}
+#Messages section #new_form_container textarea {
+  width: 98%;
+  height: 95%;
+  padding: 5px;
+}
+#Messages section #new_form_container textarea.sms {
+  width: 80%;
+  height: 25%;
+  border: 1px solid rgba(34, 24, 24, 0.2392156863);
+  border-radius: 5px;
+  min-height: 50px;
+  max-height: 150px;
+  overflow: auto;
+  white-space: pre-wrap;
+  margin-top: 170px;
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=Messages.module.css.map */

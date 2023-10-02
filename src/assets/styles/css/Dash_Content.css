@@ -1,0 +1,228 @@
+.Upcoming_events, #New_Members {
+  height: 100%;
+  width: 100%;
+}
+.Upcoming_events table, #New_Members table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.Upcoming_events table tr, #New_Members table tr {
+  height: 60px;
+}
+.Upcoming_events table tr td, .Upcoming_events table tr th, #New_Members table tr td, #New_Members table tr th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  height: 100%; /* Set the height of td to 100% */
+  /* Styles for the second p tag */
+}
+.Upcoming_events table tr td p, .Upcoming_events table tr th p, #New_Members table tr td p, #New_Members table tr th p {
+  /* Set the height of p to 50% */
+  height: 40%;
+  margin: 0;
+}
+.Upcoming_events table tr td p:last-of-type, .Upcoming_events table tr th p:last-of-type, #New_Members table tr td p:last-of-type, #New_Members table tr th p:last-of-type {
+  margin-top: 2.5%;
+  font-style: italic;
+  color: grey;
+}
+.Upcoming_events table tr:nth-child(odd), #New_Members table tr:nth-child(odd) {
+  background-color: rgba(170, 169, 169, 0.02);
+}
+.Upcoming_events table tr:nth-child(even), #New_Members table tr:nth-child(even) {
+  background-color: rgba(170, 169, 169, 0.15);
+}
+.Upcoming_events table th, #New_Members table th {
+  font-weight: bold;
+}
+.Upcoming_events .last, #New_Members .last {
+  padding-top: 14px;
+  padding-bottom: 14px;
+  width: 100%;
+  text-align: center;
+  background-color: #ddd;
+  cursor: pointer;
+}
+.Upcoming_events .last i, #New_Members .last i {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.Upcoming_events table th, .Upcoming_events .last, #New_Members table th, #New_Members .last {
+  background-color: rgba(202, 201, 201, 0.69);
+}
+
+#New_Members table tr th:last-of-type {
+  text-align: center;
+}
+#New_Members table tr td:first-of-type article {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#New_Members table tr td:first-of-type article i {
+  color: grey;
+  margin-top: 7px;
+  font-size: 22px;
+}
+#New_Members table tr td:first-of-type aside {
+  width: 70%;
+  margin-right: 5%;
+}
+#New_Members table tr td:first-of-type aside p {
+  text-align: left;
+}
+
+.Recent_reports, .Districts {
+  height: 100%;
+  width: 100%;
+}
+.Recent_reports table, .Districts table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.Recent_reports table tr, .Districts table tr {
+  height: 47px;
+  width: 100%;
+}
+.Recent_reports table tr td, .Recent_reports table tr th, .Districts table tr td, .Districts table tr th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.Recent_reports table tr th, .Districts table tr th {
+  height: 43px;
+  font-weight: bold;
+  background-color: rgba(202, 201, 201, 0.69);
+}
+.Recent_reports table tr td, .Districts table tr td {
+  height: 100%; /* Set the height of td to 100% */
+}
+.Recent_reports table tr td p, .Districts table tr td p {
+  height: 40%;
+  margin: 0;
+}
+.Recent_reports table tr td p:last-of-type, .Districts table tr td p:last-of-type {
+  margin-top: 2.5%;
+  font-style: italic;
+  color: grey;
+}
+.Recent_reports table tr:nth-child(odd), .Districts table tr:nth-child(odd) {
+  background-color: rgba(170, 169, 169, 0.02);
+}
+.Recent_reports table tr:nth-child(even), .Districts table tr:nth-child(even) {
+  background-color: rgba(170, 169, 169, 0.15);
+}
+
+.Recent_reports table tr td:first-of-type {
+  width: 70%;
+}
+
+.membergraph {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 2rem;
+  width: 90%;
+  margin-left: 1%;
+  height: 98%;
+  margin-top: 0.4%;
+  text-align: center;
+}
+.membergraph nav {
+  height: 40px;
+}
+.membergraph nav .left, .membergraph nav .right {
+  width: 100%;
+  height: 20px;
+}
+.membergraph nav .left {
+  width: 75%;
+  float: left;
+  text-align: left;
+}
+.membergraph nav .left select {
+  background-color: rgba(128, 128, 128, 0.6);
+  margin-left: 5px;
+  height: 100%;
+}
+.membergraph nav .right {
+  width: 25%;
+  float: right;
+  text-align: right;
+}
+.membergraph nav .right .label {
+  margin-left: 5%;
+  width: 90%;
+  height: 100%;
+}
+.membergraph nav .right .label.female {
+  width: 45%;
+  float: left;
+}
+.membergraph nav .right .label.male {
+  width: 45%;
+  float: right;
+}
+.membergraph nav .right .label.female .circle, .membergraph nav .right .label.male .circle {
+  margin-top: 5px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.membergraph nav .right .label.female .circle, .membergraph nav .right .label.male .circle {
+  float: left;
+}
+.membergraph nav .right .label.female p, .membergraph nav .right .label.male p {
+  float: right;
+  margin-top: 0;
+  width: 35px;
+}
+.membergraph nav .right .label.male .circle {
+  background-color: #70C4CF;
+}
+.membergraph nav .right .label.female .circle {
+  background-color: #3D5EE1;
+}
+.membergraph section {
+  height: 80%;
+  width: 90%;
+}
+.membergraph section canvas {
+  width: 100%;
+  height: 97%;
+  margin-top: 2.5%;
+}
+.membergraph section canvas .chartjs-chart-line[data-chart-tooltip='{"mode":"x","intersect":false}'] .chartjs-line,
+.membergraph section canvas .chartjs-chart-line[data-chart-tooltip='{"mode":"x","intersect":true}'] .chartjs-line {
+  --chartjs-color: blue;
+  --chartjs-background-color: transparent;
+  --chartjs-border-color: transparent;
+  --chartjs-border-width: 3;
+  --chartjs-point-hover-border-color: blue;
+}
+.membergraph section canvas .chartjs-chart-line[data-chart-tooltip='{"mode":"x","intersect":false}'] .chartjs-line:nth-of-type(2),
+.membergraph section canvas .chartjs-chart-line[data-chart-tooltip='{"mode":"x","intersect":true}'] .chartjs-line:nth-of-type(2) {
+  --chartjs-color: red;
+  --chartjs-background-color: transparent;
+  --chartjs-border-color: transparent;
+  --chartjs-border-width: 3;
+  --chartjs-point-hover-border-color: red;
+}
+.membergraph section canvas .chartjs-chart-line {
+  --chartjs-tension: 0.4;
+}
+.membergraph section canvas .chartjs-legend-item::before {
+  content: "";
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=Dash_Content.css.map */

@@ -1,0 +1,77 @@
+#sidebar_inner {
+	// Set the background color and other styles for the sidebar
+	border-right: 1px solid #ddd;
+	height: 100%;
+	position: fixed;left: 0;
+	width: auto;z-index: 9999;
+	font-size: 16px; 
+	transition: all 0.2s ease-in-out 0s;
+	overflow:hidden;
+	i{font-size: 16px;margin-right: 10px;}
+	// Set the styles for the sidebar menu
+	ul {
+		color: white;
+		list-style-type: none; padding: 0;
+		margin:5px 0 0 0 ;
+	    li {
+			span, .right{width: 150px;float: right;}
+			.right{
+				span{float: left;width: auto;}
+			}
+		    a {
+			    display: block;
+				padding: 12px 20px;
+				text-decoration: none;
+				&:hover {background-color: #e6e6e6;color: #00050a;}
+				i {
+					&:first-child{width: 25px;margin-left: 5px;}
+					&:last-child{margin-left: 4px;}
+				}
+    		}
+	    	ul {
+				span{width: 130px;}
+		    	display: none;padding: 0;
+				margin-left: 20px;
+                box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+			    li {
+				    a {
+					    padding: 8px 20px;
+    					display: block;text-decoration: none;
+			    	}
+		        }
+		    }
+		    // Show the submenu on hover
+		    &:hover ul {display: block;}
+		    // Set the active styles for the active link
+		    &.active {
+		        a {
+			        background-color: #e6e6e6;
+			        color: #00080f;
+		        }
+		    }
+			
+	    }
+	    // Set the styles for the menu title
+	    .menu_title {padding: 10px 22px 5px 22px;}
+	}
+  }
+@media screen and (max-width:900px){
+	#sidebar_inner {
+		ul {
+			li {
+				width:100%;
+				span, .right{width: 90%;text-align: left;float: right}
+				.right{
+					span{float: left;width: auto;}
+				}
+				i{width: 10%;text-align: right;}
+				ul {
+					span{width: 90%;}
+					span{text-align: left;}
+					i{width: 10%;text-align: right;}
+				}
+			}
+		}
+	  }
+	
+}

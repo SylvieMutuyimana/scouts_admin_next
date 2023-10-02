@@ -1,0 +1,451 @@
+#Profile, #Members {
+  margin-top: 30px;
+  height: auto;
+  width: 96.5%;
+  text-align: center;
+}
+#Profile a, #Profile button, #Members a, #Members button {
+  cursor: pointer;
+}
+#Profile a:hover, #Profile button:hover, #Members a:hover, #Members button:hover {
+  color: #000;
+}
+
+#Members {
+  height: 700px;
+}
+#Members section a {
+  color: rgb(85, 82, 82);
+  text-decoration: underline;
+  font-style: italic;
+}
+#Members section nav {
+  text-align: center;
+  width: 100%;
+  height: 40px;
+}
+#Members section nav article, #Members section nav aside {
+  height: 100%;
+  text-align: center;
+}
+#Members section nav article {
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+#Members section nav article .search_bar {
+  margin-bottom: 20px;
+  width: 250px;
+  height: 20px;
+}
+#Members section nav article .search_bar input, #Members section nav article .search_bar button {
+  border-radius: 5px;
+}
+#Members section nav article .search_bar input {
+  background-color: rgba(255, 255, 255, 0.87);
+  border: 1px solid rgba(255, 255, 255, 0.116);
+  border-bottom: 1px solid rgba(102, 102, 102, 0.3215686275);
+  padding: 2px 2px;
+  width: 60%;
+  height: 100%;
+}
+#Members section nav article .search_bar button {
+  width: 20%;
+  border: none;
+  background-color: transparent;
+  color: rgb(1, 1, 75);
+  text-decoration: underline;
+  cursor: pointer;
+}
+#Members section nav article label, #Members section nav article input, #Members section nav article button {
+  margin: 5px;
+}
+#Members section nav aside {
+  float: right;
+  width: 50%;
+  text-align: right;
+  align-items: right;
+}
+#Members section nav aside button {
+  background-color: #36043A;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 12px;
+  text-align: center;
+  height: 100%;
+  margin-right: 0%;
+  width: 120px;
+  padding: 0;
+}
+#Members section nav aside button:hover {
+  color: white;
+}
+#Members section nav aside button i {
+  margin-right: 5px;
+}
+#Members section nav aside ul {
+  list-style-type: none;
+  text-align: center;
+  position: relative;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  width: 120px;
+  background-color: #ebebeb;
+}
+#Members section nav aside li {
+  text-align: left;
+}
+#Members section nav aside .add {
+  color: #36043A;
+  border: 1px solid rgba(54, 4, 58, 0.5019607843);
+  width: 115px;
+  top: 13px;
+}
+#Members section nav aside .add li {
+  padding: 5px 10px;
+}
+#Members section nav aside .add .inside {
+  margin-left: 10px;
+  width: 105px;
+}
+#Members section nav aside .add .item:hover, #Members section nav aside .add .inside li:hover {
+  background-color: #94109F;
+  color: white;
+}
+#Members section section {
+  margin: 15px 0;
+  width: 100%;
+  background-color: white;
+}
+#Members section section hr {
+  height: 2px;
+  width: 100%;
+}
+#Members section section article, #Members section section aside {
+  height: 50px;
+}
+#Members section section article button, #Members section section aside button {
+  font-size: 15px;
+  background-color: rgba(0, 0, 255, 0);
+  border: none;
+  margin: 15px;
+}
+#Members section section article button i, #Members section section aside button i {
+  margin-left: 5px;
+}
+#Members section section article {
+  width: 35%;
+  float: left;
+  text-align: left;
+  align-items: left;
+  padding-left: 20px;
+}
+#Members section section article select {
+  border: none;
+  background: rgba(165, 42, 42, 0.096);
+  padding: 3px 0px;
+  font-size: 12px;
+  color: #2d1e49;
+  text-align: center;
+}
+#Members section section aside {
+  width: 55%;
+  float: right;
+  text-align: right;
+  align-items: right;
+  padding-right: 20px;
+}
+#Members section section aside button {
+  text-decoration: underline;
+}
+#Members section section .activities_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#Members section section .activities_container .provincehead {
+  font-weight: bolder;
+  color: #36043A;
+  text-align: left;
+  width: 92%;
+  margin-left: 4%;
+}
+#Members section section .activities_container .activities_grid {
+  display: grid;
+  width: 90%;
+  margin-top: -10px;
+  margin-bottom: 20px;
+  align-items: center;
+  text-align: center;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: rgba(128, 128, 128, 0.164);
+}
+#Members section section .activities_container .activities_grid .activity_card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  transition: all 0.5s ease;
+  background-color: #EAEAEA;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  position: relative;
+}
+#Members section section .activities_container .activities_grid .activity_card h3 {
+  background-color: rgba(0, 0, 0, 0.4431372549);
+  box-shadow: 1px solid #36043A;
+  color: azure;
+  font-weight: bolder;
+  width: 80%;
+  margin-left: 10%;
+}
+#Members section section .activities_container .activities_grid .activity_card .details {
+  background-color: rgba(235, 234, 234, 0.8235294118);
+  color: black;
+  position: absolute;
+  bottom: 10px;
+  width: 90%;
+}
+#Members section section .activities_container .activities_grid .activity_card .details p:last-child {
+  margin-top: -5px;
+}
+#Members section section .activities_container .activities_grid .activity_card.provinces {
+  height: 150px;
+}
+#Members section section .activities_container .activities_grid .activity_card.provinces h3 {
+  height: 20%;
+  position: relative;
+  bottom: 20px;
+  top: 80%;
+}
+#Members section section .activities_container .activities_grid .activity_card.districts {
+  height: 150px;
+}
+#Members section section .activities_container .activities_grid .activity_card.sectors {
+  height: 50px;
+}
+#Members section section .activities_container .activities_grid .activity_card .activity_card_buttons button {
+  background-color: #ccc;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+#Members section section .activities_container .activities_grid .activity_card .activity_card_buttons button:hover {
+  background-color: rgba(0, 0, 0, 0.2470588235);
+}
+#Members section section table {
+  margin-top: -5px;
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+}
+#Members section section table thead tr {
+  font-weight: bold;
+  text-align: center;
+  background-color: rgba(202, 201, 201, 0.69);
+  border: 1px solid rgba(202, 201, 201, 0.69);
+}
+#Members section section table thead tr th.Name {
+  padding-left: 20px;
+}
+#Members section section table tr {
+  height: 55px;
+}
+#Members section section table tr td, #Members section section table tr th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  height: 100%; /* Set the height of td to 100% */
+  /* Styles for the second p tag */
+}
+#Members section section table tr td:last-child, #Members section section table tr th:last-child {
+  padding-top: 8px;
+}
+#Members section section table tr td article, #Members section section table tr th article {
+  float: left;
+  height: 100%;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Members section section table tr td article img, #Members section section table tr th article img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+#Members section section table tr td aside, #Members section section table tr th aside {
+  height: 100%;
+  float: right;
+  width: 55%;
+  margin-right: 0;
+}
+#Members section section table tr td aside p, #Members section section table tr th aside p {
+  text-align: left;
+}
+#Members section section table tr td p, #Members section section table tr th p {
+  /* Set the height of p to 50% */
+  height: 40%;
+  margin: 0;
+}
+#Members section section table tr td p:last-of-type, #Members section section table tr th p:last-of-type {
+  margin-top: 2.5%;
+  font-style: italic;
+  color: grey;
+}
+#Members section section table tr td.Action, #Members section section table tr th.Action {
+  text-align: center;
+}
+#Members section section table tr td.Action a i, #Members section section table tr th.Action a i {
+  font-size: 15px !important;
+  color: #2e2e2e !important;
+}
+#Members section section table tr td.Action a:first-child, #Members section section table tr th.Action a:first-child {
+  margin-right: 5px;
+}
+#Members section section table tr td.Action a:last-child, #Members section section table tr th.Action a:last-child {
+  margin-left: 5px;
+}
+#Members section section table tbody tr {
+  font-weight: normal;
+}
+#Members section section table tbody tr:nth-child(odd) {
+  background-color: rgba(221, 221, 221, 0.1568627451);
+}
+#Members section section table tbody tr:nth-child(odd) td {
+  border: 1px solid rgba(221, 221, 221, 0.1568627451);
+}
+#Members section section table tbody tr:nth-child(even) {
+  background-color: rgba(221, 221, 221, 0.4431372549);
+}
+#Members section section table tbody tr:nth-child(even) td {
+  border: 1px solid rgba(221, 221, 221, 0.4431372549);
+}
+
+@media screen and (max-width: 1200px) {
+  #Members section section .activities_container .activities_grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  #Members section section .activities_container .activities_grid .activity_card {
+    width: 295px;
+    height: 260px;
+  }
+  #Members section section .activities_container .activities_grid .activity_card aside, #Members section section .activities_container .activities_grid .activity_card article {
+    height: 94%;
+    margin-top: 10px;
+  }
+  #Members section section .activities_container .activities_grid .activity_card article {
+    width: 40%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card article img {
+    width: 100%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card aside {
+    width: 45%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view {
+    padding: 5px;
+    grid-column: 1/span 2;
+    height: 480px;
+    width: 400px;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view article {
+    width: 37%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view aside {
+    width: 55%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view aside table img {
+    width: 42px;
+    height: 35px;
+  }
+  #Members section section table td img {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  #Members section section .activities_container .activities_grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view {
+    grid-column: 1/span 1;
+    width: 90%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view article {
+    width: 37%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view aside {
+    width: 53%;
+  }
+  #Members section section .activities_container .activities_grid .activity_card.view aside table td.email, #Members section section .activities_container .activities_grid .activity_card.view aside table th.email {
+    display: none;
+  }
+  #Members section section article {
+    width: 29%;
+  }
+  #Members section section aside {
+    width: 63%;
+  }
+  #Members section section table td.Address, #Members section section table td.District, #Members section section table td.Tenure, #Members section section table td.Author, #Members section section table th.Address, #Members section section table th.District, #Members section section table th.Tenure, #Members section section table th.Author {
+    display: none;
+  }
+}
+@media screen and (max-width: 900px) {
+  #Members section section article {
+    width: 25%;
+  }
+  #Members section section aside {
+    width: 67%;
+  }
+}
+@media screen and (max-width: 700px) {
+  #Members section nav {
+    height: 80px;
+  }
+  #Members section nav article, #Members section nav aside {
+    width: 100%;
+    float: none;
+    height: 50%;
+  }
+  #Members section section {
+    margin-top: 30px;
+  }
+  #Members section section article {
+    width: 40%;
+  }
+  #Members section section aside {
+    width: 45%;
+  }
+  #Members section section aside .show {
+    display: none;
+  }
+  #Members section section table td.Occupation, #Members section section table th.Occupation {
+    display: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  #Members section table td.Age, #Members section table td.Action, #Members section table th.Age, #Members section table th.Action {
+    display: none;
+  }
+  #Members section table td.Name article, #Members section table td.Name aside {
+    width: 80%;
+    float: none;
+    text-align: left;
+  }
+  #Members section table td.Name article img, #Members section table td.Name aside img {
+    margin-left: 0;
+  }
+}
+
+/*# sourceMappingURL=Members_MyProfile.css.map */

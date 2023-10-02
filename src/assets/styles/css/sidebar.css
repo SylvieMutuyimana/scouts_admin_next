@@ -1,0 +1,100 @@
+#sidebar_inner {
+  border-right: 1px solid #ddd;
+  height: 100%;
+  position: fixed;
+  left: 0;
+  width: auto;
+  z-index: 9999;
+  font-size: 16px;
+  transition: all 0.2s ease-in-out 0s;
+  overflow: hidden;
+}
+#sidebar_inner i {
+  font-size: 16px;
+  margin-right: 10px;
+}
+#sidebar_inner ul {
+  color: white;
+  list-style-type: none;
+  padding: 0;
+  margin: 5px 0 0 0;
+}
+#sidebar_inner ul li span, #sidebar_inner ul li .right {
+  width: 150px;
+  float: right;
+}
+#sidebar_inner ul li .right span {
+  float: left;
+  width: auto;
+}
+#sidebar_inner ul li a {
+  display: block;
+  padding: 12px 20px;
+  text-decoration: none;
+}
+#sidebar_inner ul li a:hover {
+  background-color: #e6e6e6;
+  color: #00050a;
+}
+#sidebar_inner ul li a i:first-child {
+  width: 25px;
+  margin-left: 5px;
+}
+#sidebar_inner ul li a i:last-child {
+  margin-left: 4px;
+}
+#sidebar_inner ul li ul {
+  display: none;
+  padding: 0;
+  margin-left: 20px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.1);
+}
+#sidebar_inner ul li ul span {
+  width: 130px;
+}
+#sidebar_inner ul li ul li a {
+  padding: 8px 20px;
+  display: block;
+  text-decoration: none;
+}
+#sidebar_inner ul li:hover ul {
+  display: block;
+}
+#sidebar_inner ul li.active a {
+  background-color: #e6e6e6;
+  color: #00080f;
+}
+#sidebar_inner ul .menu_title {
+  padding: 10px 22px 5px 22px;
+}
+
+@media screen and (max-width: 900px) {
+  #sidebar_inner ul li {
+    width: 100%;
+  }
+  #sidebar_inner ul li span, #sidebar_inner ul li .right {
+    width: 90%;
+    text-align: left;
+    float: right;
+  }
+  #sidebar_inner ul li .right span {
+    float: left;
+    width: auto;
+  }
+  #sidebar_inner ul li i {
+    width: 10%;
+    text-align: right;
+  }
+  #sidebar_inner ul li ul span {
+    width: 90%;
+  }
+  #sidebar_inner ul li ul span {
+    text-align: left;
+  }
+  #sidebar_inner ul li ul i {
+    width: 10%;
+    text-align: right;
+  }
+}
+
+/*# sourceMappingURL=sidebar.css.map */

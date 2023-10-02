@@ -1,0 +1,437 @@
+#Myprofile nav, #Editprofile nav, #Settings nav, #Notifications nav {
+  height: 30px;
+}
+#Myprofile nav ul, #Editprofile nav ul, #Settings nav ul, #Notifications nav ul {
+  list-style-type: none;
+}
+#Myprofile nav ul li, #Editprofile nav ul li, #Settings nav ul li, #Notifications nav ul li {
+  display: inline;
+  cursor: pointer;
+  font-weight: bold;
+  color: #36043A !important;
+}
+#Myprofile nav ul li:hover, #Editprofile nav ul li:hover, #Settings nav ul li:hover, #Notifications nav ul li:hover {
+  color: #535151 !important;
+}
+#Myprofile nav ul li a, #Editprofile nav ul li a, #Settings nav ul li a, #Notifications nav ul li a {
+  color: #535151 !important;
+  font-size: 17px;
+}
+#Myprofile nav ul li a:hover, #Editprofile nav ul li a:hover, #Settings nav ul li a:hover, #Notifications nav ul li a:hover {
+  color: #36043A !important;
+}
+#Myprofile nav ul li.edit, #Editprofile nav ul li.edit, #Settings nav ul li.edit, #Notifications nav ul li.edit {
+  font-style: italic;
+  text-decoration: underline;
+}
+#Myprofile section, #Editprofile section, #Settings section, #Notifications section {
+  border-radius: 5px;
+  margin-top: 10px;
+  padding-bottom: 20px;
+}
+
+#Myprofile section ul, #Editprofile section ul {
+  background-color: #f7f7f7;
+  list-style-type: none;
+  margin: 0;
+  width: 100%;
+}
+#Myprofile section ul.one, #Myprofile section ul.two, #Editprofile section ul.one, #Editprofile section ul.two {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px 0;
+}
+#Myprofile section ul.one, #Editprofile section ul.one {
+  height: 200px;
+}
+#Myprofile section ul.one .right, #Myprofile section ul.one .left, #Editprofile section ul.one .right, #Editprofile section ul.one .left {
+  height: 100%;
+}
+#Myprofile section ul.two, #Editprofile section ul.two {
+  margin-top: 10px;
+  height: 90px;
+  float: left;
+  text-align: left;
+  display: flex;
+  list-style-type: none;
+}
+#Myprofile section ul.two li, #Editprofile section ul.two li {
+  margin: 0px 0.8%;
+  width: 13%;
+}
+#Myprofile section ul.two li p, #Editprofile section ul.two li p {
+  width: 100%;
+}
+#Myprofile section ul.two li:first-child, #Editprofile section ul.two li:first-child {
+  margin-left: 30px;
+}
+#Myprofile section ul.three, #Editprofile section ul.three {
+  margin-top: 10px;
+  height: 80px;
+  padding: 0;
+  text-align: center;
+  background-color: rgba(255, 255, 0, 0);
+}
+#Myprofile section ul li, #Editprofile section ul li {
+  margin-bottom: 10px;
+}
+#Myprofile section ul li img, #Editprofile section ul li img {
+  border-radius: 50%;
+  height: 100%;
+  width: auto;
+}
+#Myprofile section ul li.left, #Editprofile section ul li.left {
+  float: left;
+  width: 30%;
+}
+#Myprofile section ul li.right, #Editprofile section ul li.right {
+  width: 30%;
+  overflow: hidden;
+}
+#Myprofile section ul li.right ul, #Editprofile section ul li.right ul {
+  margin-top: 30px;
+  padding: 20px 0px;
+  list-style-type: none;
+}
+#Myprofile section ul li.right ul li, #Editprofile section ul li.right ul li {
+  text-align: left;
+  margin-bottom: 5px;
+}
+#Myprofile section ul li.right ul li.name, #Editprofile section ul li.right ul li.name {
+  font-weight: bold;
+}
+
+#Editprofile section form {
+  background-color: #E3E1E1;
+  text-align: left;
+}
+#Editprofile section form p, #Editprofile section form label {
+  width: 80%;
+}
+#Editprofile section form label {
+  text-align: left;
+  align-items: left;
+  display: inline-block;
+}
+#Editprofile section form input, #Editprofile section form select {
+  display: inline-block;
+  border: #36043A;
+  border: 2px;
+  background-color: rgba(54, 4, 58, 0.1098039216);
+  width: 60%;
+  padding: 2px;
+  margin-bottom: 0px;
+}
+#Editprofile section form input#province, #Editprofile section form input#district, #Editprofile section form select#province, #Editprofile section form select#district {
+  width: 40%;
+}
+#Editprofile section form input#district, #Editprofile section form select#district {
+  margin-left: 5px;
+}
+#Editprofile section form input[type=file], #Editprofile section form select[type=file] {
+  background-color: rgba(128, 128, 128, 0);
+  color: #333;
+  margin-right: 5px;
+}
+#Editprofile section form input option, #Editprofile section form select option {
+  padding: 5px;
+}
+#Editprofile section ul.one {
+  text-align: center;
+}
+#Editprofile section ul.one input {
+  width: 40%;
+}
+#Editprofile section ul.one select {
+  width: 45%;
+}
+#Editprofile section ul.one .right {
+  margin-top: -10px;
+  height: 110%;
+}
+#Editprofile section ul.one .right input {
+  width: 40%;
+}
+#Editprofile section ul.one .right select {
+  width: 45%;
+}
+#Editprofile section ul.one input[type=file] {
+  position: relative;
+  z-index: 1;
+  top: -40px;
+  width: 60%;
+}
+#Editprofile section ul.two li.large {
+  width: 20%;
+}
+#Editprofile section ul.two input, #Editprofile section ul.two select {
+  margin-bottom: 1px;
+}
+#Editprofile section ul.two input#email, #Editprofile section ul.two input#phone, #Editprofile section ul.two select#email, #Editprofile section ul.two select#phone {
+  width: 80%;
+}
+#Editprofile section ul.two input#province, #Editprofile section ul.two input#district, #Editprofile section ul.two select#province, #Editprofile section ul.two select#district {
+  width: 45%;
+  float: left;
+}
+#Editprofile section ul.two input#sector, #Editprofile section ul.two input#street, #Editprofile section ul.two select#sector, #Editprofile section ul.two select#street {
+  width: 43%;
+  float: left;
+}
+#Editprofile section ul.two input#district, #Editprofile section ul.two input#street, #Editprofile section ul.two select#district, #Editprofile section ul.two select#street {
+  margin-left: 5px;
+}
+#Editprofile nav aside button a#button {
+  background-color: #36043A;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 12px;
+  text-align: center;
+  height: 100%;
+  margin-right: 0%;
+}
+#Editprofile nav aside button a#button i {
+  margin-right: 5px;
+}
+
+#Settings section, #Notifications section {
+  height: 600px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+}
+#Settings section aside, #Notifications section aside {
+  float: right;
+  text-align: right;
+}
+#Settings section form, #Notifications section form {
+  width: 100%;
+}
+#Settings section form article, #Settings section form aside, #Notifications section form article, #Notifications section form aside {
+  height: 100%;
+  width: 47.5%;
+  text-align: center;
+}
+#Settings section form article, #Notifications section form article {
+  float: left;
+}
+#Settings section form aside, #Notifications section form aside {
+  float: right;
+}
+#Settings section form footer, #Notifications section form footer {
+  width: 100%;
+  text-align: center;
+}
+
+#Settings form {
+  text-align: left;
+}
+#Settings form p, #Settings form label {
+  width: 80%;
+}
+#Settings form label {
+  text-align: left;
+  align-items: left;
+}
+#Settings form input, #Settings form select {
+  width: 80%;
+  padding: 10px;
+  display: inline-block;
+  border: #36043A;
+  margin-bottom: 5px;
+  border: 2px;
+  background-color: rgba(54, 4, 58, 0.1098039216);
+}
+#Settings form input#province, #Settings form input#district, #Settings form select#province, #Settings form select#district {
+  width: 40%;
+}
+#Settings form input#district, #Settings form select#district {
+  margin-left: 5px;
+}
+#Settings form select option {
+  padding: 5px;
+}
+#Settings form label {
+  display: inline-block;
+}
+#Settings form input[type=file] {
+  background-color: rgba(128, 128, 128, 0);
+  color: #333;
+  margin-right: 5px;
+}
+
+#Settings form {
+  height: 430px;
+  text-align: left;
+}
+#Settings form h3 {
+  padding: 30px 0px 0px 7%;
+}
+#Settings form article, #Settings form aside {
+  width: 50%;
+  height: 100%;
+}
+#Settings form article p, #Settings form article label, #Settings form aside p, #Settings form aside label {
+  width: 80%;
+}
+#Settings form article label, #Settings form aside label {
+  text-align: left;
+  align-items: left;
+}
+#Settings form article {
+  float: left;
+}
+#Settings form aside {
+  float: right;
+}
+#Settings form footer {
+  width: 100%;
+  text-align: center;
+}
+
+#Notifications section {
+  background-color: rgba(170, 169, 169, 0);
+}
+#Notifications section table {
+  background-color: rgba(170, 169, 169, 0.1490196078);
+  border-collapse: collapse;
+  width: 100%;
+}
+#Notifications section table button {
+  background-color: rgba(0, 0, 0, 0);
+  border: 0px solid rgba(0, 0, 0, 0);
+}
+#Notifications section table tr {
+  height: 55px;
+}
+#Notifications section table tr td, #Notifications section table tr th {
+  border: 0px solid #dddddd;
+  text-align: left;
+  height: 100%; /* Set the height of td to 100% */
+}
+#Notifications section table tr td:last-child, #Notifications section table tr th:last-child {
+  padding-top: 8px;
+}
+#Notifications section table td:first-child {
+  text-align: center;
+}
+#Notifications section table tr:nth-child(odd) {
+  background-color: rgba(170, 169, 169, 0.0196078431);
+}
+#Notifications section table tr:nth-child(even) {
+  background-color: rgba(170, 169, 169, 0.1490196078);
+}
+
+@media screen and (max-width: 900px) {
+  #Settings section form {
+    height: 430px;
+  }
+  #Settings section form article, #Settings section form aside {
+    width: 46%;
+  }
+  #Myprofile section ul.one, #Editprofile section ul.one {
+    height: 200px;
+  }
+  #Myprofile section ul.one .right, #Myprofile section ul.one .left, #Editprofile section ul.one .right, #Editprofile section ul.one .left {
+    height: 100%;
+  }
+  #Myprofile section ul li.left, #Editprofile section ul li.left {
+    float: left;
+    width: 30%;
+  }
+  #Myprofile section ul li.right, #Editprofile section ul li.right {
+    width: 60%;
+    overflow: hidden;
+    float: right;
+  }
+  #Myprofile section ul li.right ul, #Editprofile section ul li.right ul {
+    margin-top: 30px;
+    padding: 20px 0px;
+    list-style-type: none;
+  }
+  #Myprofile section ul li.right ul li, #Editprofile section ul li.right ul li {
+    text-align: left;
+    margin-bottom: 5px;
+  }
+  #Myprofile section ul li.right ul li.name, #Editprofile section ul li.right ul li.name {
+    font-weight: bold;
+  }
+  #Myprofile section ul.two, #Editprofile section ul.two {
+    height: 210px;
+    list-style-type: none;
+    display: block;
+    padding: 0;
+  }
+  #Myprofile section ul.two li, #Editprofile section ul.two li {
+    margin: 0px;
+    width: 40%;
+    height: 50px;
+    margin: 0;
+    padding: 5px 20px;
+  }
+  #Myprofile section ul.two li p, #Editprofile section ul.two li p {
+    width: 100%;
+  }
+  #Myprofile section ul.two li:first-child, #Editprofile section ul.two li:first-child {
+    margin-left: 0;
+  }
+  #Myprofile section ul.two li:nth-child(odd), #Editprofile section ul.two li:nth-child(odd) {
+    float: left;
+  }
+  #Myprofile section ul.two li:nth-child(even), #Editprofile section ul.two li:nth-child(even) {
+    float: right;
+  }
+  #Myprofile section ul.two li p:last-child, #Editprofile section ul.two li p:last-child {
+    margin-top: -3px;
+  }
+  #Myprofile section ul.two li:last-child, #Editprofile section ul.two li:last-child {
+    width: 90%;
+  }
+  #Myprofile section ul.two li:last-child p, #Editprofile section ul.two li:last-child p {
+    width: 50%;
+  }
+  #Myprofile section ul.two li:last-child p:nth-child(even), #Editprofile section ul.two li:last-child p:nth-child(even) {
+    float: left;
+  }
+  #Myprofile section ul.two li:last-child p:nth-child(odd), #Editprofile section ul.two li:last-child p:nth-child(odd) {
+    float: right;
+    margin-top: -4px;
+  }
+  #Myprofile section ul.two li:last-child p:last-child, #Editprofile section ul.two li:last-child p:last-child {
+    float: right;
+  }
+  #Myprofile section ul.two li:last-child p:first-child, #Editprofile section ul.two li:last-child p:first-child {
+    width: 100%;
+    float: none;
+  }
+}
+@media screen and (max-width: 600px) {
+  #Myprofile section ul li.right, #Editprofile section ul li.right {
+    width: 60%;
+  }
+  #Settings section {
+    height: auto;
+  }
+  #Settings section form {
+    height: auto;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  #Settings section form article, #Settings section form aside {
+    width: 94%;
+    height: 430px;
+    float: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-left: 3%;
+  }
+  #Settings section form article label, #Settings section form aside label {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 10%;
+  }
+}
+
+/*# sourceMappingURL=Profile_Pages.css.map */

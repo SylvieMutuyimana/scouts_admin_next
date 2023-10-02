@@ -1,0 +1,112 @@
+@import 'App.scss';
+@import 'Header.scss';
+#authenticate {
+  margin-top: 30px;
+  width: 90%;
+  height: 600px;
+  background-color: rgba(161, 139, 139, 0.062);
+  margin-left: 5%;  
+  article,
+  aside {
+    width: 50%;
+    height: 100%;
+  }
+  
+  article {
+    float: left;
+    text-align: center;
+    overflow: hidden;
+    background-image: url('../../img/login/scouts.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  aside {
+    float: right;
+    background-color: #aca5a5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    form{
+      padding:10px 5px;        
+      background-color: rgba(255, 255, 255, 0.329);
+      width: 80%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      .circle{
+        width:50px;height: 50px;border-radius: 50%;overflow: hidden;
+        img{width: 100%;height: 100%;}
+      }
+      h3{margin-top: 5px;text-align: center;}
+      h4{
+        text-align: center;
+      }
+      a {
+        color: #36043A;
+      }
+      label {
+        display: block;
+        margin-top: 2px;
+        width: 80%;
+        input {
+          width: 100%;
+          padding: 12px 20px;
+          display: inline-block;
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          box-sizing: border-box;
+          margin: 0;
+        }
+        p{text-align: left;}
+      }
+      button {
+        background-color: #36043A;
+        color: white;
+        height: 40px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 120px;
+        margin-top: 20px;
+        &:hover {
+          opacity: 1;
+        }
+      }
+      &#signup {
+        hr {
+          border: 1px solid #f1f1f1;
+          margin-bottom: 25px;
+        }
+        button {
+          &:hover {
+            opacity: 1;
+          }
+        }
+      }
+    }       
+  }
+}
+.page_wrapper{
+  margin-left: 0;
+}
+
+@media screen and (max-width:1200px) {
+  #authenticate {
+    margin-top: 20px;
+    height: 620px; 
+    article{width: 45%;}
+    aside{width: 55%;}
+  }
+
+}
+@media screen and (max-width:800px) {
+  #authenticate {
+    margin-top: 5px;
+    height: 620px;
+    article{display: none;}
+    aside{height: 100%;width:100%;float:left}
+  }
+}

@@ -1,0 +1,93 @@
+import dude from '../../assets/img/members/adults/dude.jpg';
+import guy from '../../assets/img/members/adults/guy.jpg';
+import female from '../../assets/img/members/adults/female.jpg';
+import woman from '../../assets/img/members/adults/woman.jpg';
+export const EmailMessages = { 
+  sent: [        
+    {     
+      id:'sent-email01',     
+      sender: 'admin_jane@rsa.com',          
+      receiver: { name: 'Kiki Fanny', s_email: 'kiki@example.com' },          
+      subject: 'Meeting Reminder',          
+      body: 'Hi Jane,\n\nJust a reminder that we have a meeting at 2pm today.\n\nBest,\nJohn',          
+      timestamp: new Date()        
+    },        
+    {       
+      id:'sent-email02',   
+      sender: 'admin_jane@rsa.com',          
+      receiver: { name: 'Mary Johnson', s_email: 'mary@example.com' },          
+      subject: 'Lunch Invitation',          
+      body: 'Hi Jane,\n\nWould you like to have lunch with me at noon tomorrow?\n\nBest,\nMary',          
+      timestamp: new Date()        
+    },        
+    {       
+      id:'sent-email03',   
+      sender: 'admin_jane@rsa.com',          
+      receiver: { name: 'Hamilton Opo', s_email: 'hamilton@example.com' },          
+      subject: 'RE: Meeting Reminder',          
+      body: 'Hi John,\n\nThanks for the reminder. I\'ll be there on time.\n\nBest,\nJane',          
+      timestamp: new Date()        
+    }      
+  ],
+  inbox: [
+    {
+      id:'inbox-email01',
+      sender: { name: 'Mary Johnson', s_email: 'mary@example.com' },
+      receiver: 'admin_jane@rsa.com',
+      subject: 'Extended Lunch Invitation',
+      body: 'Hi Jane,\n\nWould you like to have lunch with me at noon tomorrow?\n\nBest,\nMary',
+      timestamp: new Date()
+    },
+    {
+      id:'inbox-email02',
+      sender: { name: 'Hamilton Opo', s_email: 'hamilton@example.com' },
+      receiver: 'admin_jane@rsa.com',
+      subject: 'Received!',
+      body: 'Hi,\n\nThanks for the reminder. I\'ll be there on time.\n\nBest,\nJane',
+      timestamp: new Date()
+    },
+    {
+      id:'inbox-email03',
+      sender: { name: 'Mark Sui', s_email: 'mark@example.com' },
+      receiver: 'admin_jane@rsa.com',
+      subject: 'RE: Lunch Invitation',
+      body: 'Hi Mary,\n\nSure, I would love to have lunch with you tomorrow. How about we meet at that new place on Main Street?\n\nBest,\nJane',
+      timestamp: new Date()
+    }
+  ]
+};
+export const Contacts = [
+  {
+    name: 'William Smith',
+    position: 'Admin, HR Manager', 
+    image: female,
+    gender: 'Female',
+    age: 35,
+    street: '456 Elm St',department: 'Education',
+    role: 'Advisor',
+    contact: { phone: '0786405045', email: 'jane@rsa.com' },
+    tenure: 3
+  },
+  {
+    name: 'Sarah Mas Doe', phn: '+250793457811',
+    position: 'Scout Volunteer', id:'',
+    image: woman,
+    gender: 'Female',
+    age: 28,
+    street: '246 Maple St',department: 'Volunteer',
+    volunteerTime: {startDate:'24/12/2021', endDate: '14/09/2025'},
+    contact: { phone: '0786405045', email: 'sarah@rsa.com' },
+    tenure: 2
+  },
+  {
+    name: 'Martin Lux', phn: '+250734235689',
+    position: 'Scout', id:'',
+    image:dude,
+    gender: 'Female',
+    age: 10,
+    street: '246 Maple St',
+    occupation: 'Nurse',
+    contact: { phone: '0786405045', email: 'olivia@example.com' },
+    tenure: 2
+  }
+]

@@ -1,0 +1,141 @@
+
+#Dashboard {
+    ul {
+        height: auto;width:100%;
+        list-style-type: none;text-align:center;
+        padding: 0;
+        a{
+            cursor: pointer;color: rgb(85, 82, 82);
+            text-decoration:underline;font-style: italic;
+        }
+        article,aside{width: 100%;text-align: center;}
+        article{float: left;}
+        aside{float: right;}
+        &.row_one, &.row_two {
+            article, aside{width:50%;}
+        }
+        &.row_one{
+            height: 120px;
+            i{color: rgba(0, 0, 0, 0.24);}
+            article,aside{
+                height: 100%;
+                nav{height:30px;margin-left: 0;}
+                li {
+                    text-decoration: none;float: left;
+                    background-color: #fff;border-radius: 4px; height: 80px;
+                    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+                    width: 39.5%;text-align:center;
+                    &.one ,&.two{margin-left: 7%}
+                    .dash_widget_bg,.dash_widget_info{width: 100%;}
+                    .dash_widget_bg {
+                        height: 100%;width: 40%;
+                        float: left;
+                        display: flex;align-items: center;
+                        justify-content: center;
+                        border-radius: 50%;     
+                        color: #fff;                       
+                        i {font-size: 30px}
+                    }
+                    
+                    .dash_widget_info {
+                        float: right;width: 60%;
+                        height: 90%;margin-top: 2.5%;
+                        h3, span{                                
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                        }
+                        h3 {
+                            margin-top: 0;height: 40%;
+                            font-size: 24px;
+                            font-weight: 500;                                
+                            margin-bottom:5px;
+                        }
+                        span {
+                            margin-top: 5px;margin-right:5px;
+                            height: 45%;
+                            background: #7aa37a;
+                            color: #fff;
+                            border-radius: 4px;
+                            i {
+                                background-color: white;
+                                color: grey;
+                                width: 16px;
+                                height: 16px;
+                                border-radius: 50%;
+                                margin-left: 5px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        &.row_two {
+            height: 285px;
+            section{
+                height: 80%;
+                article,aside{height: 100%;width:49%}
+            }
+        }
+        &.row_three,&.row_four{
+            article,aside{
+                background-color: white;
+            }
+        }
+        &.row_three {
+            height:370px;
+            p{
+                span{width: 25%;float: left;margin-left: 2.5%;}
+                .left{text-align: left;}
+                .right{text-align: right;}
+            }
+            article{width:59.5%;}
+            aside{width:39.5%;}
+        }
+        &.row_four{
+            height:350px;
+            article{width:69.5%;}
+            aside{width:29.5%;}
+        }
+    }
+}
+@media screen and (max-width: 1000px) {
+    #Dashboard {
+        ul {            
+            &.row_one, &.row_two,&.row_three, &.row_four{
+                height: auto;
+                article,aside{width: 100%;float: none;text-align: center;}
+                aside{margin-top: 10px;}
+            }
+            &.row_one{
+                article,aside{
+                    height: 120px;
+                }
+            }
+            &.row_three {
+                p{
+                    span{width: 50%}
+                }
+            }
+            &.row_two{
+                section{article,aside{width: 87%;align-items: center}}
+            }
+        }
+    }
+}
+@media screen and (min-width: 1400px) {
+    #Dashboard {
+        ul {        
+            &.row_one{
+                height: 150px;
+                article,aside{
+                    nav{height:25%}
+                    li {height: 70%; }
+                }
+            }
+            &.row_two {
+                height: 350px;
+            }
+        }
+    }
+}

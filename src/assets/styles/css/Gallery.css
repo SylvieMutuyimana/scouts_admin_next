@@ -1,0 +1,151 @@
+#Gallery {
+  background-color: white;
+  margin: 30px 30px 30px 0px;
+  height: auto;
+  width: 90.5%;
+  text-align: center;
+  padding: 10px 5% 5px 5%;
+}
+#Gallery a, #Gallery button {
+  cursor: pointer;
+}
+#Gallery a {
+  color: 0 rgb(85, 82, 82);
+  text-decoration: underline;
+  font-style: italic;
+}
+
+#MediaView nav, #AddMedia nav {
+  text-align: left;
+  height: 40px;
+  width: 96.5%;
+  padding: 10px 15px;
+}
+#MediaView nav article, #MediaView nav aside, #AddMedia nav article, #AddMedia nav aside {
+  height: 100%;
+  width: 50%;
+}
+#MediaView nav article, #AddMedia nav article {
+  float: left;
+  text-align: left;
+}
+#MediaView nav article label, #MediaView nav article input, #MediaView nav article button, #AddMedia nav article label, #AddMedia nav article input, #AddMedia nav article button {
+  margin: 5px;
+}
+#MediaView nav article .error, #AddMedia nav article .error {
+  color: red;
+  font-style: italic;
+}
+#MediaView nav article button.back, #AddMedia nav article button.back {
+  background-color: rgba(0, 0, 255, 0);
+  border: none;
+  font-size: 20px;
+}
+#MediaView nav aside, #AddMedia nav aside {
+  float: right;
+  width: 50%;
+  text-align: right;
+}
+#MediaView nav aside button.show, #MediaView nav aside button.clear, #AddMedia nav aside button.show, #AddMedia nav aside button.clear {
+  background-color: transparent;
+  text-decoration: underline;
+  color: #1b021d;
+}
+#MediaView section button, #MediaView nav aside button, #AddMedia section button, #AddMedia nav aside button {
+  background-color: #36043A;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 12px;
+  text-align: center;
+  height: 40px;
+  width: 150px i;
+  width-margin-right: 5px;
+}
+#MediaView section, #AddMedia section {
+  padding: 10px;
+}
+#MediaView section h3, #AddMedia section h3 {
+  margin: 0;
+  color: #5F8D4E;
+  text-decoration: underline;
+  text-align: left;
+  margin-top: -10px;
+}
+#MediaView section .media, #MediaView section .upload_item, #AddMedia section .media, #AddMedia section .upload_item {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 30px;
+}
+#MediaView section .media .gallery_item, #AddMedia section .media .gallery_item {
+  width: 100%;
+}
+#MediaView section .media .gallery_item img, #AddMedia section .media .gallery_item img {
+  width: 100%;
+  height: 100%;
+}
+#MediaView section .upload_media, #AddMedia section .upload_media {
+  background-color: rgba(53, 50, 53, 0.1215686275);
+  height: 380px;
+  padding: 15px;
+  margin: 15px 0;
+  border-radius: 5px;
+}
+#MediaView section .upload_media input, #AddMedia section .upload_media input {
+  width: 100%;
+}
+#MediaView section .upload_media p, #AddMedia section .upload_media p {
+  text-align: left;
+}
+#MediaView section .upload_media .upload_item, #AddMedia section .upload_media .upload_item {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+  overflow: auto; /* Add overflow property to enable scrolling */
+}
+#MediaView section .upload_media .upload_item .image_container, #AddMedia section .upload_media .upload_item .image_container {
+  text-align: center;
+  width: 95%;
+}
+#MediaView section .upload_media .upload_item .image_container img, #AddMedia section .upload_media .upload_item .image_container img {
+  width: 40px;
+  height: 40px;
+}
+#MediaView section .upload_media .upload_item .image_container textarea, #AddMedia section .upload_media .upload_item .image_container textarea {
+  height: 80px;
+  width: 70%;
+  margin-left: 5%;
+  border-radius: 5px;
+  border: 1px solid rgba(53, 50, 53, 0.3294117647);
+  background-color: rgba(53, 50, 53, 0.1215686275);
+}
+
+#AddMedia {
+  height: 600px;
+}
+
+@media screen and (max-width: 800px) {
+  #MediaView nav, #AddMedia nav {
+    height: 80px;
+  }
+  #MediaView nav article, #MediaView nav aside, #AddMedia nav article, #AddMedia nav aside {
+    height: 50%;
+    width: 100%;
+    float: none;
+  }
+  #MediaView section, #AddMedia section {
+    height: auto;
+  }
+  #MediaView section .media, #MediaView section .upload_item, #AddMedia section .media, #AddMedia section .upload_item {
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+  }
+  #MediaView section .upload_media, #AddMedia section .upload_media {
+    height: auto;
+  }
+  #AddMedia {
+    height: auto;
+  }
+}
+
+/*# sourceMappingURL=Gallery.css.map */

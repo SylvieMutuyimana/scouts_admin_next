@@ -1,0 +1,321 @@
+#SMS, #Email {
+  width: 100%;
+  height: 100%;
+}
+#SMS #chat_window, #SMS #message_board, #Email #chat_window, #Email #message_board {
+  padding: 10px;
+  overflow: hidden;
+  height: 100%;
+  border: 1px solid rgba(102, 102, 102, 0.2862745098);
+}
+#SMS #message_board, #Email #message_board {
+  width: 25%;
+  overflow-y: auto;
+  background-color: #f2f2f2;
+}
+#SMS #message_board .search_bar, #Email #message_board .search_bar {
+  margin-bottom: 20px;
+  width: 100%;
+  height: 30px;
+}
+#SMS #message_board .search_bar input, #SMS #message_board .search_bar button, #Email #message_board .search_bar input, #Email #message_board .search_bar button {
+  border-radius: 5px;
+}
+#SMS #message_board .search_bar input, #Email #message_board .search_bar input {
+  background-color: #b9b9b9;
+  border: 1px solid rgba(102, 102, 102, 0.3215686275);
+  width: 80%;
+  height: 100%;
+  cursor: pointer;
+}
+#SMS #message_board .search_bar button, #Email #message_board .search_bar button {
+  width: 10%;
+  border: none;
+  background-color: none;
+  color: brown;
+  text-decoration: underline;
+}
+#SMS #message_board ul, #Email #message_board ul {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  list-style-type: none;
+  margin-top: -12px;
+  cursor: pointer;
+  height: 48px;
+}
+#SMS #message_board ul li, #Email #message_board ul li {
+  cursor: pointer;
+  height: 16px;
+}
+#SMS #message_board ul:hover, #Email #message_board ul:hover {
+  background-color: #e6e6e6;
+}
+#SMS #message_board ul.active, #Email #message_board ul.active {
+  background-color: #d9d9d9;
+}
+#SMS #message_board ul .sender, #SMS #message_board ul .position, #Email #message_board ul .sender, #Email #message_board ul .position {
+  font-weight: bold;
+  margin-top: 0;
+  text-align: left;
+}
+#SMS #message_board ul .content, #Email #message_board ul .content {
+  margin: auto;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block; /* ensure the div takes up the full width */
+  max-width: 100%; /* ensure the div doesn't overflow horizontally */
+}
+#SMS #message_board ul .timestamp, #Email #message_board ul .timestamp {
+  font-size: 0.8em;
+  color: #666;
+  margin: auto;
+  text-align: right;
+}
+#SMS #chat_window, #Email #chat_window {
+  z-index: 1;
+  width: 71%;
+  overflow-y: auto;
+  margin-left: 27%;
+  margin-top: -51.3%;
+  background-color: #FFFFFF;
+}
+#SMS #chat_window .chat, #Email #chat_window .chat {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  height: 480px;
+}
+#SMS #chat_window .chat .the_head, #Email #chat_window .chat .the_head {
+  width: 50px;
+  border-radius: 5px;
+  background-color: rgba(156, 156, 156, 0.6156862745);
+  padding: 4px 2px;
+}
+#SMS #chat_window .chat .the_head.email, #Email #chat_window .chat .the_head.email {
+  width: 90px;
+}
+#SMS #chat_window .chat .email_view, #Email #chat_window .chat .email_view {
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 5px;
+  height: 360px;
+}
+#SMS #chat_window .chat .email_view article, #SMS #chat_window .chat .email_view aside, #Email #chat_window .chat .email_view article, #Email #chat_window .chat .email_view aside {
+  width: 50%;
+  height: 60px;
+}
+#SMS #chat_window .chat .email_view article, #Email #chat_window .chat .email_view article {
+  float: left;
+  text-align: left;
+}
+#SMS #chat_window .chat .email_view article img, #Email #chat_window .chat .email_view article img {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+#SMS #chat_window .chat .email_view aside, #Email #chat_window .chat .email_view aside {
+  float: right;
+  text-align: right;
+}
+#SMS #chat_window .chat .email_view aside i, #Email #chat_window .chat .email_view aside i {
+  color: #221818;
+  font-size: 23px;
+}
+#SMS #chat_window .chat .email_view aside p, #Email #chat_window .chat .email_view aside p {
+  margin-left: 5px;
+  margin-top: 10px;
+}
+#SMS #chat_window .chat .email_view .body.email, #Email #chat_window .chat .email_view .body.email {
+  margin-left: 10%;
+  width: 80%;
+  text-align: left;
+}
+#SMS #chat_window .chat .the_message.email, #Email #chat_window .chat .the_message.email {
+  margin-top: 20px;
+}
+#SMS #chat_window .chat .the_message, #Email #chat_window .chat .the_message {
+  width: 100%;
+  padding-top: 20px;
+}
+#SMS #chat_window .chat .the_message h3, #Email #chat_window .chat .the_message h3 {
+  font-size: 14px;
+}
+#SMS #chat_window .chat .sender, #Email #chat_window .chat .sender {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+#SMS #chat_window .chat .messages, #Email #chat_window .chat .messages {
+  flex-grow: 1;
+  overflow: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  list-style-type: none;
+}
+#SMS #chat_window .chat .messages .message, #Email #chat_window .chat .messages .message {
+  padding: 15px;
+  margin-bottom: 10px;
+}
+#SMS #chat_window .chat .messages .message .content, #Email #chat_window .chat .messages .message .content {
+  margin-bottom: 5px;
+}
+#SMS #chat_window .chat .messages .message .timestamp, #Email #chat_window .chat .messages .message .timestamp {
+  font-size: 0.8em;
+  color: #666;
+}
+#SMS #chat_window .chat .input, #Email #chat_window .chat .input {
+  width: 90%;
+  margin-left: 10%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#SMS #chat_window .chat .input textarea, #SMS #chat_window .chat .input button, #Email #chat_window .chat .input textarea, #Email #chat_window .chat .input button {
+  padding: 5px;
+}
+#SMS #chat_window .chat .input textarea, #Email #chat_window .chat .input textarea {
+  width: 80%;
+  height: auto;
+  min-height: 50px;
+  max-height: 150px;
+  overflow: auto;
+  white-space: pre-wrap;
+}
+#SMS #chat_window .chat .input button, #Email #chat_window .chat .input button {
+  width: 80px;
+  margin-left: 10px;
+}
+#SMS #chat_window #new_form_container, #Email #chat_window #new_form_container {
+  background-color: #ffffff;
+  position: relative;
+  z-index: 1;
+  margin-top: -480px;
+  height: 480px;
+}
+#SMS #chat_window #new_form_container .container, #Email #chat_window #new_form_container .container {
+  margin-top: 7px;
+  border-radius: 5px;
+  border: 1px solid rgba(75, 75, 75, 0.2470588235);
+  height: 460px;
+  text-align: left;
+}
+#SMS #chat_window #new_form_container .container.sms, #Email #chat_window #new_form_container .container.sms {
+  border: 0px solid transparent;
+}
+#SMS #chat_window #new_form_container .container .the_head, #Email #chat_window #new_form_container .container .the_head {
+  height: 50px;
+  margin-top: 0;
+  background-color: hsla(0, 1%, 82%, 0.6);
+  border-bottom: 1px solid rgba(95, 94, 94, 0.219);
+  box-shadow: 0px 2px 20px -10px rgba(83, 81, 81, 0.2);
+}
+#SMS #chat_window #new_form_container .container .the_head.sms, #Email #chat_window #new_form_container .container .the_head.sms {
+  background-color: hsla(0, 1%, 82%, 0);
+}
+#SMS #chat_window #new_form_container .container aside, #SMS #chat_window #new_form_container .container article, #Email #chat_window #new_form_container .container aside, #Email #chat_window #new_form_container .container article {
+  width: 50%;
+}
+#SMS #chat_window #new_form_container .container aside, #Email #chat_window #new_form_container .container aside {
+  float: right;
+}
+#SMS #chat_window #new_form_container .container article, #Email #chat_window #new_form_container .container article {
+  float: left;
+}
+#SMS #chat_window #new_form_container .container article, #SMS #chat_window #new_form_container .container aside, #Email #chat_window #new_form_container .container article, #Email #chat_window #new_form_container .container aside {
+  height: 100%;
+}
+#SMS #chat_window #new_form_container .container article h4, #SMS #chat_window #new_form_container .container aside h4, #Email #chat_window #new_form_container .container article h4, #Email #chat_window #new_form_container .container aside h4 {
+  font-size: 16px;
+  color: black;
+  font-weight: normal;
+  height: 20px;
+  padding-left: 10px;
+  padding-top: 15px;
+}
+#SMS #chat_window #new_form_container.sms, #Email #chat_window #new_form_container.sms {
+  width: 100%;
+  border: 0px solid rgba(255, 0, 0, 0);
+}
+#SMS #chat_window #new_form_container.sms .the_head, #Email #chat_window #new_form_container.sms .the_head {
+  background-color: none;
+}
+#SMS #chat_window #new_form_container .recipient, #SMS #chat_window #new_form_container .the_subject, #Email #chat_window #new_form_container .recipient, #Email #chat_window #new_form_container .the_subject {
+  height: 40px;
+  border-bottom: 1px solid rgba(95, 94, 94, 0.082);
+  margin: 0px 3px;
+  padding-left: 2px;
+}
+#SMS #chat_window #new_form_container .body, #Email #chat_window #new_form_container .body {
+  height: 280px;
+  width: 100%;
+  padding-left: 2px;
+}
+#SMS #chat_window #new_form_container .body.sms, #Email #chat_window #new_form_container .body.sms {
+  height: 330px;
+}
+#SMS #chat_window #new_form_container .the_footer, #Email #chat_window #new_form_container .the_footer {
+  height: 50px;
+  margin-bottom: 0px;
+  background-color: hsla(0, 2%, 73%, 0.096);
+  border-top: 1px solid rgba(95, 94, 94, 0.26);
+  box-shadow: 10px 0px 20px -10px rgba(34, 24, 24, 0.3137254902);
+}
+#SMS #chat_window #new_form_container button#send, #Email #chat_window #new_form_container button#send {
+  background-color: #38023D;
+  padding: 5px;
+  border-radius: 5px;
+  width: 80px;
+  height: 30px;
+  margin-top: 8px;
+  margin-left: 5px;
+  color: #ccc;
+}
+#SMS #chat_window #new_form_container button#send i, #Email #chat_window #new_form_container button#send i {
+  font-size: 15px;
+  margin-left: 5px;
+}
+#SMS #chat_window #new_form_container textarea, #SMS #chat_window #new_form_container input, #SMS #chat_window #new_form_container select, #Email #chat_window #new_form_container textarea, #Email #chat_window #new_form_container input, #Email #chat_window #new_form_container select {
+  background-color: transparent;
+  border: none;
+}
+#SMS #chat_window #new_form_container input, #SMS #chat_window #new_form_container select, #Email #chat_window #new_form_container input, #Email #chat_window #new_form_container select {
+  height: 80%;
+  margin-top: 5px;
+  width: 80%;
+}
+#SMS #chat_window #new_form_container select, #Email #chat_window #new_form_container select {
+  width: 80px;
+}
+#SMS #chat_window #new_form_container textarea, #Email #chat_window #new_form_container textarea {
+  width: 98%;
+  height: 95%;
+  padding: 5px;
+}
+#SMS #chat_window #new_form_container textarea.sms, #Email #chat_window #new_form_container textarea.sms {
+  width: 80%;
+  height: 25%;
+  border: 1px solid rgba(34, 24, 24, 0.2392156863);
+  border-radius: 5px;
+  min-height: 50px;
+  max-height: 150px;
+  overflow: auto;
+  white-space: pre-wrap;
+  margin-top: 170px;
+  margin-left: 10px;
+}
+#SMS .container .the_head #close_button, #SMS .container.sms #close_button, #Email .container .the_head #close_button, #Email .container.sms #close_button {
+  width: 90px;
+  margin-top: 0;
+  float: right;
+  height: 50px;
+  background-color: rgba(56, 2, 61, 0);
+  border: 0px solid rgba(255, 255, 0, 0.007);
+  padding: 0;
+}
+#SMS .container .the_head #close_button i, #SMS .container.sms #close_button i, #Email .container .the_head #close_button i, #Email .container.sms #close_button i {
+  background-color: rgba(56, 2, 61, 0);
+  color: #38023D;
+  font-size: 19px;
+}
+
+/*# sourceMappingURL=Message_Links.css.map */

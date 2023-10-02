@@ -1,0 +1,386 @@
+#Myprofile, #Editprofile, #Settings, #Notifications{
+  nav{
+    height:30px;
+    ul{
+      list-style-type: none;
+      li{
+        display: inline;
+        cursor: pointer;
+        font-weight: bold;
+        color:#36043A !important;
+        &:hover{
+          color:#535151 !important
+        }
+        a{
+          color:#535151 !important;font-size: 17px;
+          &:hover{
+            color:#36043A !important
+          }
+        }
+        &.edit{
+          font-style: italic; text-decoration: underline;
+        }
+      }
+    }
+  }
+  section{
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+  }
+}
+#Myprofile, #Editprofile{
+  section {
+    ul {
+      background-color: #f7f7f7;
+      list-style-type: none;
+      margin: 0;width:100%;
+      &.one,&.two{
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 20px 0;
+      } 
+      &.one{
+        height: 200px;
+        .right,.left{height: 100%;}
+      }
+      &.two{
+        margin-top: 10px;
+        height: 90px;
+        float: left;
+        text-align: left; 
+        display: flex;
+        list-style-type: none;
+        li {
+          margin: 0px 0.8%;width:13%;
+          p{width: 100%;}
+          &:first-child{
+            margin-left: 30px;
+          }
+        }
+      }
+      &.three{
+        margin-top: 10px;
+        height: 80px;
+        padding: 0;
+        text-align: center;
+        background-color: rgba(255, 255, 0, 0);
+      }
+      li {
+        margin-bottom: 10px;
+        img{border-radius: 50%;height: 100%;width: auto;}
+        &.left {
+          float: left;
+          width: 30%;
+        }
+        &.right {
+          width: 30%;
+          overflow: hidden;
+          
+          ul {
+            margin-top: 30px;
+            padding: 20px 0px;
+            list-style-type: none;
+            li {
+              text-align: left;
+              margin-bottom: 5px;
+              &.name{
+                font-weight: bold;
+              }
+              
+            }
+          }
+        }
+      }
+    }
+  }
+}
+#Editprofile{
+  section {
+    form{
+      background-color: #E3E1E1;
+      text-align: left;
+      p,label{width:80%}
+      label{text-align: left;align-items: left;display: inline-block;}
+      input,select{
+        display: inline-block;
+        border: #36043A;
+        border: 2px;
+        background-color: #36043a1c;
+        width: 60%;padding: 2px;
+        margin-bottom: 0px;
+        &#province,&#district{
+          width: 40%;
+        } 
+        &#district{
+          margin-left: 5px;
+        } 
+        &[type='file']{
+          background-color: rgba(128, 128, 128, 0);
+          color: #333; margin-right: 5px; 
+        }
+        option{padding: 5px;}
+      }
+    }
+    ul {
+      &.one{
+        text-align: center;
+        input{width:40%}
+        select{width: 45%;}
+        .right{
+          margin-top: -10px;height: 110%;
+          input{width: 40%}
+          select{width: 45%}
+        }
+        input[type="file"] {
+          position:relative; z-index:1;
+          top: -40px;
+          width: 60%;
+        }
+      }
+      &.two{
+        li.large{width:20%}
+        input,select{
+          margin-bottom: 1px;
+          &#email,&#phone{width: 80%;}
+          &#province,&#district{
+            width: 45%;float: left;
+          } 
+          &#sector, &#street{
+            width: 43%;float: left;
+          } 
+          &#district,&#street{
+            margin-left: 5px;
+          } 
+        }
+      }
+    }
+  }
+  nav{
+    aside{
+      button {
+        a{
+          &#button{
+            background-color: #36043A;color: white;
+            border: none;border-radius: 5px;
+            padding: 10px 12px;text-align: center;
+            height: 100%;margin-right: 0%;
+            i{margin-right: 5px;}
+          }
+        }
+      }
+    }
+  }
+}
+#Settings, #Notifications{
+  section{
+    height: 600px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    aside{float: right;text-align: right;}
+    form{
+      width: 100%;
+      article,aside{height: 100%;width: 47.5%;text-align: center;}
+      article{float: left;}
+      aside{float:right;}
+      footer{width:100%;text-align: center}
+    }
+  }
+}
+#Settings{
+  form{
+    text-align: left;
+    p,label{width:80%}
+    label{text-align: left;align-items: left;}
+    input,select{
+      width: 80%;padding: 10px;
+      display: inline-block;
+      border: #36043A;
+      margin-bottom: 5px;border: 2px;
+      background-color: #36043a1c;
+      &#province,&#district{
+        width: 40%;
+      } 
+      &#district{
+        margin-left: 5px;
+      } 
+    }
+    select option{padding: 5px;}
+    label{display: inline-block;}
+    input[type="file"] {
+      background-color: rgba(128, 128, 128, 0);
+      color: #333; 
+      margin-right: 5px; 
+    }
+  }
+}
+#Settings{
+  form{
+    height:430px;
+    text-align: left;
+    h3{padding:30px 0px 0px 7%}
+    article,aside{
+      width: 50%;height:100%;
+      p,label{width:80%}
+      label{
+        text-align: left;align-items: left;
+      }
+    }
+    article{float: left;}
+    aside{float: right;}
+    footer{
+      width: 100%;
+      text-align: center;
+    }
+  }
+}
+#Notifications{
+  section{
+    background-color: #aaa9a900;
+    table {
+      background-color: #aaa9a926;
+      button{background-color:rgba(0, 0, 0, 0);border:0px solid rgba(0, 0, 0, 0);}
+      border-collapse: collapse;width: 100%;
+      tr {
+        height: 55px;
+        td,th {
+          border: 0px solid #dddddd;
+          text-align: left;
+          height: 100%; /* Set the height of td to 100% */
+          &:last-child{padding-top: 8px;}
+        }
+      }
+      td:first-child{
+        text-align: center;
+      }
+      tr:nth-child(odd) {
+        background-color: #aaa9a905;
+      }      
+      tr:nth-child(even) {
+        background-color: #aaa9a926;
+      }
+    }
+  }
+}
+@media screen and (max-width:900px){
+  #Settings{
+    section{
+      form{
+        height:430px;
+        article,aside{
+          width: 46%;
+        }
+      }
+    }
+  }
+  #Myprofile, #Editprofile{
+    section {
+      ul {
+        &.one{
+          height: 200px;
+          .right,.left{height: 100%;}
+        }
+        li {
+          &.left {
+            float: left;
+            width: 30%;
+          }
+          &.right {
+            width: 60%;
+            overflow: hidden;
+            float: right;
+            ul {
+              margin-top: 30px;
+              padding: 20px 0px;
+              list-style-type: none;
+              li {
+                text-align: left;
+                margin-bottom: 5px;
+                &.name{
+                  font-weight: bold;
+                }
+                
+              }
+            }
+          }
+        }
+        &.two{
+          height: 210px;
+          list-style-type: none;
+          display: block;
+          padding: 0;
+          li {
+            margin: 0px;width:40%;
+            height:50px;
+            margin:0;
+            padding:5px 20px;
+            p{width: 100%;}
+            &:first-child{margin-left: 0;}
+            &:nth-child(odd){
+              float: left;
+            }
+            &:nth-child(even){
+              float: right;
+            }
+            p{
+              &:last-child{
+                margin-top:-3px
+              }
+            }
+            &:last-child{
+              width: 90%;
+              p{
+                width:50%;
+                &:nth-child(even){
+                  float: left;
+                }
+                &:nth-child(odd){
+                  float: right;
+                  margin-top:-4px
+                }
+                &:last-child{float: right;}
+                &:first-child{width:100%;float: none;}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width:600px){
+  #Myprofile, #Editprofile{
+    section {
+      ul {
+        li {
+          &.right {
+            width: 60%;
+          }
+        }
+      }
+    }
+  }
+  #Settings{
+    section{
+      height: auto;
+      form{
+        height:auto;
+        padding:0;
+        margin:0;
+        text-align: center;
+        article,aside{
+          width: 94%;height:430px;
+          float:none;
+          padding:0;
+          margin:0;
+          text-align: center;
+          margin-left:3%;
+          label{
+            margin-left: 0;margin-right:0;
+            padding-left:10%;
+          }
+        }
+      }
+    }
+  }
+}
